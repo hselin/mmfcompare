@@ -171,7 +171,7 @@
                                         </div>
                                     </th>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="displayYield">
-                                        <div class="sortable-header">
+                                        <div class="sortable-header justify-center">
                                             7-Day Yield
                                             <span class="sort-arrows">
                                                 <span class="arrow-up">▲</span>
@@ -340,7 +340,7 @@
                         <td class="py-4 px-6 font-medium text-gray-200 whitespace-nowrap">${fund.symbol}</td>
                         <td class="py-4 px-6">${fund.name}</td>
                         <td class="py-4 px-6">${fund.category || 'N/A'}</td>
-                        <td class="py-4 px-6 font-semibold ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</td>
+                        <td class="py-4 px-6 text-center font-semibold ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</td>
                         <td class="py-4 px-6 text-gray-400">${formattedDate}</td>
                     `;
                     fundsBodyDesktop.appendChild(row);
@@ -465,7 +465,7 @@
                 if(yieldToggle.checked) {
                     updateAndRecalculate();
                 }
-            }, 50);
+            }, 30);
 
             taxRateSlider.addEventListener('input', () => {
                 taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
