@@ -22,7 +22,7 @@
         .sortable-header {
             display: flex;
             align-items: center;
-            white-space: nowrap; /* Prevent text wrapping */
+            white-space: nowrap;
         }
         .sort-arrows {
             display: inline-flex;
@@ -64,6 +64,25 @@
             background: #10B981;
             cursor: pointer;
             border-radius: 50%;
+        }
+        .mobile-sort-btn {
+            padding: 0.5rem 0.75rem;
+            border-radius: 0.5rem;
+            background-color: #374151; /* gray-700 */
+            color: #D1D5DB; /* gray-300 */
+            transition: background-color 0.2s;
+            font-size: 0.875rem;
+        }
+        .mobile-sort-btn.active {
+            background-color: #10B981; /* emerald-500 */
+            color: white;
+            font-weight: 600;
+        }
+        .mobile-sort-btn .sort-arrows {
+            display: none;
+        }
+        .mobile-sort-btn.active .sort-arrows {
+            display: inline-flex;
         }
     </style>
 </head>
@@ -109,7 +128,18 @@
                     <p>Failed to load data. Please try again later.</p>
                 </div>
                 <div id="funds-table-container" class="hidden">
-                    <div class="overflow-x-auto">
+                    <!-- Mobile Sort Controls -->
+                    <div id="mobile-sort-container" class="md:hidden mb-4">
+                        <div class="flex items-center text-sm text-gray-400 mb-2">
+                            <span class="font-medium">Sort by:</span>
+                        </div>
+                        <div id="mobile-sort-buttons" class="flex flex-wrap gap-2">
+                            <!-- Mobile sort buttons will be injected here -->
+                        </div>
+                    </div>
+
+                    <!-- Desktop Table -->
+                    <div class="hidden md:block overflow-x-auto">
                         <table class="w-full text-sm text-left text-gray-400">
                             <thead class="text-xs text-emerald-400 uppercase bg-gray-800/50">
                                 <tr>
@@ -160,15 +190,22 @@
                                     </th>
                                 </tr>
                             </thead>
-                            <tbody id="funds-body">
+                            <tbody id="funds-body-desktop">
                             </tbody>
                         </table>
+                    </div>
+                    <!-- Mobile Card View -->
+                    <div id="funds-body-mobile" class="md:hidden grid grid-cols-1 gap-4">
+                        <!-- Mobile cards will be injected here by JavaScript -->
                     </div>
                 </div>
             </main>
 
-            <div id="export-container" class="text-center mt-6 hidden">
-                 <button id="exportCsvBtn" class="bg-emerald-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-emerald-700 transition-colors">Download as CSV</button>
+            <div id="data-info-container" class="mt-6 hidden">
+                 <p id="last-updated-timestamp" class="text-xs text-gray-500 mb-4 text-center md:text-right"></p>
+                 <div class="text-center">
+                    <button id="exportCsvBtn" class="bg-emerald-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-emerald-700 transition-colors">Download as CSV</button>
+                 </div>
             </div>
         </div>
     </section>
@@ -222,17 +259,34 @@
             const loading = document.getElementById("loading");
             const error = document.getElementById("error");
             const fundsTableContainer = document.getElementById("funds-table-container");
-            const fundsBody = document.getElementById("funds-body");
+            const fundsBodyDesktop = document.getElementById("funds-body-desktop");
+            const fundsBodyMobile = document.getElementById("funds-body-mobile");
+            const mobileSortButtonsContainer = document.getElementById('mobile-sort-buttons');
             const sortableHeaders = document.querySelectorAll("[data-sort]");
             const yieldToggle = document.getElementById('yieldToggle');
             const taxRateSlider = document.getElementById('taxRate');
             const taxRateValue = document.getElementById('taxRateValue');
-            const exportContainer = document.getElementById('export-container');
+            const dataInfoContainer = document.getElementById('data-info-container');
             const exportCsvBtn = document.getElementById('exportCsvBtn');
+            const lastUpdatedEl = document.getElementById('last-updated-timestamp');
 
             let allFunds = [];
             let displayFunds = [];
             let currentSort = { column: 'symbol', direction: 'asc' };
+            const domElements = { desktop: new Map(), mobile: new Map() };
+
+            const throttle = (func, limit) => {
+                let inThrottle;
+                return function() {
+                    const args = arguments;
+                    const context = this;
+                    if (!inThrottle) {
+                        func.apply(context, args);
+                        inThrottle = true;
+                        setTimeout(() => inThrottle = false, limit);
+                    }
+                }
+            };
 
             const calculateDisplayYields = () => {
                 const showTaxEquivalent = yieldToggle.checked;
@@ -247,24 +301,40 @@
                 });
             };
 
-            const renderTable = () => {
-                fundsBody.innerHTML = '';
-                displayFunds.forEach((fund, index) => {
+            const createElements = () => {
+                fundsBodyDesktop.innerHTML = '';
+                fundsBodyMobile.innerHTML = '';
+                domElements.desktop.clear();
+                domElements.mobile.clear();
+
+                allFunds.forEach(fund => {
                     const row = document.createElement("tr");
+                    row.dataset.symbol = fund.symbol;
+                    domElements.desktop.set(fund.symbol, row);
+
+                    const card = document.createElement("div");
+                    card.dataset.symbol = fund.symbol;
+                    card.className = "bg-gray-800 p-4 rounded-lg border border-gray-700 space-y-2";
+                    domElements.mobile.set(fund.symbol, card);
+                });
+            };
+
+            const updateAndRenderDOM = () => {
+                displayFunds.forEach((fund, index) => {
                     const yieldValue = parseFloat(fund.displayYield);
-
-                    let rowClasses = "hover:bg-gray-700/50";
-                    if (index < displayFunds.length - 1) {
-                        rowClasses += " border-b border-gray-700";
-                    }
-
-                    const date = new Date(fund.yieldDate + 'T00:00:00'); // Assume UTC date
+                    const date = new Date(fund.yieldDate + 'T00:00:00');
                     const formattedDate = date.toLocaleDateString('en-US', {
                         year: 'numeric',
                         month: '2-digit',
                         day: '2-digit'
                     });
 
+                    // Update Desktop Row
+                    const row = domElements.desktop.get(fund.symbol);
+                    let rowClasses = "hover:bg-gray-700/50";
+                    if (index < displayFunds.length - 1) {
+                        rowClasses += " border-b border-gray-700";
+                    }
                     row.className = rowClasses;
                     row.innerHTML = `
                         <td class="py-4 px-6 font-medium text-gray-200 whitespace-nowrap">${fund.symbol}</td>
@@ -273,7 +343,26 @@
                         <td class="py-4 px-6 font-semibold ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</td>
                         <td class="py-4 px-6 text-gray-400">${formattedDate}</td>
                     `;
-                    fundsBody.appendChild(row);
+                    fundsBodyDesktop.appendChild(row);
+
+                    // Update Mobile Card
+                    const card = domElements.mobile.get(fund.symbol);
+                    card.innerHTML = `
+                        <div class="flex justify-between items-center">
+                            <h3 class="font-bold text-lg text-white">${fund.symbol}</h3>
+                            <span class="text-sm text-gray-400">${fund.category || 'N/A'}</span>
+                        </div>
+                        <p class="text-sm text-gray-400">${fund.name}</p>
+                        <div class="flex justify-between items-baseline pt-2 border-t border-gray-700">
+                            <span class="text-sm font-medium">7-Day Yield:</span>
+                            <span class="font-semibold text-lg ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</span>
+                        </div>
+                        <div class="flex justify-between items-baseline text-xs text-gray-500">
+                            <span>Last Updated:</span>
+                            <span>${formattedDate}</span>
+                        </div>
+                    `;
+                    fundsBodyMobile.appendChild(card);
                 });
             };
 
@@ -301,7 +390,7 @@
 
                     return direction === 'asc' ? comparison : -comparison;
                 });
-                renderTable();
+                updateAndRenderDOM();
             };
 
             const changeSortColumn = (column) => {
@@ -312,14 +401,36 @@
                     currentSort.direction = 'asc';
                 }
 
-                sortableHeaders.forEach(header => {
-                    header.classList.remove('sort-asc', 'sort-desc');
-                    if (header.dataset.sort === currentSort.column) {
-                        header.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                const allSortControls = document.querySelectorAll(`[data-sort]`);
+                allSortControls.forEach(control => {
+                    control.classList.remove('active', 'sort-asc', 'sort-desc');
+                     if (control.dataset.sort === currentSort.column) {
+                        control.classList.add('active', currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
                     }
                 });
 
                 sortAndRender();
+            };
+
+            const initializeMobileSortControls = () => {
+                sortableHeaders.forEach(header => {
+                    const column = header.dataset.sort;
+                    const button = document.createElement('button');
+                    button.className = 'mobile-sort-btn flex items-center';
+                    button.dataset.sort = column;
+
+                    const text = header.querySelector('.sortable-header').childNodes[0].nodeValue.trim();
+                    button.innerHTML = `
+                        <span>${text}</span>
+                        <span class="sort-arrows ml-2">
+                            <span class="arrow-up">▲</span>
+                            <span class="arrow-down">▼</span>
+                        </span>
+                    `;
+
+                    button.addEventListener('click', () => changeSortColumn(column));
+                    mobileSortButtonsContainer.appendChild(button);
+                });
             };
 
             const updateAndRecalculate = () => {
@@ -350,11 +461,15 @@
                 document.body.removeChild(link);
             }
 
-            taxRateSlider.addEventListener('input', () => {
-                taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
+            const throttledUpdate = throttle(() => {
                 if(yieldToggle.checked) {
                     updateAndRecalculate();
                 }
+            }, 50);
+
+            taxRateSlider.addEventListener('input', () => {
+                taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
+                throttledUpdate();
             });
 
             yieldToggle.addEventListener('change', updateAndRecalculate);
@@ -366,24 +481,42 @@
             exportCsvBtn.addEventListener('click', exportToCsv);
 
             try {
+                initializeMobileSortControls();
                 const response = await fetch('money_market_funds.json');
 
                 if (!response.ok) {
                     throw new Error(`Could not load data file. Status: ${response.status}`);
                 }
 
-                // The data is now a dictionary, so we convert it to an array
-                const fundsDict = await response.json();
+                const data = await response.json();
+                const fundsDict = data.funds;
+                const lastUpdatedTimestamp = data.lastUpdated;
+
                 allFunds = Object.values(fundsDict);
+
+                if (lastUpdatedTimestamp) {
+                    const date = new Date(lastUpdatedTimestamp);
+                    const formattedTimestamp = date.toLocaleString('en-US', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                        hour: 'numeric',
+                        minute: '2-digit',
+                        timeZoneName: 'short'
+                    });
+                    lastUpdatedEl.textContent = `Data last updated: ${formattedTimestamp}`;
+                }
 
                 taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
 
+                createElements();
                 calculateDisplayYields();
 
-                sortableHeaders.forEach(header => {
-                    header.classList.remove('sort-asc', 'sort-desc');
-                    if (header.dataset.sort === currentSort.column) {
-                        header.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                const allSortControls = document.querySelectorAll(`[data-sort]`);
+                allSortControls.forEach(control => {
+                    control.classList.remove('active', 'sort-asc', 'sort-desc');
+                     if (control.dataset.sort === currentSort.column) {
+                        control.classList.add('active', currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
                     }
                 });
 
@@ -391,7 +524,7 @@
 
                 loading.classList.add("hidden");
                 fundsTableContainer.classList.remove("hidden");
-                exportContainer.classList.remove("hidden");
+                dataInfoContainer.classList.remove("hidden");
             } catch (err) {
                 loading.classList.add("hidden");
                 error.classList.remove("hidden");
