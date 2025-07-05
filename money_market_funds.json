@@ -1,0 +1,1922 @@
+{
+    "AABXX": {
+        "symbol": "AABXX",
+        "name": "SDIT GOVERNMENT - SWEEP CLASS",
+        "category": "Government",
+        "yield": "3.98%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "AAOXX": {
+        "symbol": "AAOXX",
+        "name": "American Beacon U.S. Government Money Market Select Fund - U.S. Government Money Market Select Fund",
+        "category": "Government",
+        "yield": "4.21%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ACAXX": {
+        "symbol": "ACAXX",
+        "name": "Prime Money Market Fund - Class A",
+        "category": "Prime",
+        "yield": "3.70%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ACDXX": {
+        "symbol": "ACDXX",
+        "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class D Shares",
+        "category": "Government",
+        "yield": "3.99%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ACJXX": {
+        "symbol": "ACJXX",
+        "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class I Shares",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ACOXX": {
+        "symbol": "ACOXX",
+        "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class N Shares",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ACTXX": {
+        "symbol": "ACTXX",
+        "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class T Shares",
+        "category": "Government",
+        "yield": "3.86%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "AGHXX": {
+        "symbol": "AGHXX",
+        "name": "U.S. Government Money Market Fund - Class C",
+        "category": "Government",
+        "yield": "3.22%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "AGQXX": {
+        "symbol": "AGQXX",
+        "name": "U.S. Government Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.72%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "AJTXX": {
+        "symbol": "AJTXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Agency",
+        "category": "Government",
+        "yield": "4.09%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ARCXX": {
+        "symbol": "ARCXX",
+        "name": "Prime Money Market Fund - Class C",
+        "category": "Prime",
+        "yield": "3.20%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BBSXX": {
+        "symbol": "BBSXX",
+        "name": "BBH U.S. Government Money Market Fund - Institutional Shares",
+        "category": "Government",
+        "yield": "4.05%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BCHXX": {
+        "symbol": "BCHXX",
+        "name": "T-FUND - Capital",
+        "category": "Government",
+        "yield": "4.14%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BCTXX": {
+        "symbol": "BCTXX",
+        "name": "California Tax-Free Money Market Fund - Investor Class",
+        "category": "Single State",
+        "yield": "1.78%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "BFBXX": {
+        "symbol": "BFBXX",
+        "name": "FEDFUND - Select",
+        "category": "Government",
+        "yield": "3.37%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BFCXX": {
+        "symbol": "BFCXX",
+        "name": "FEDFUND - Capital",
+        "category": "Government",
+        "yield": "4.15%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BFRXX": {
+        "symbol": "BFRXX",
+        "name": "FEDFUND - Cash Reserve",
+        "category": "Government",
+        "yield": "3.80%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BITXX": {
+        "symbol": "BITXX",
+        "name": "TREASURY TRUST FUND - Administration",
+        "category": "Government",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BLFXX": {
+        "symbol": "BLFXX",
+        "name": "FEDFUND - Administration",
+        "category": "Government",
+        "yield": "4.10%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BNTXX": {
+        "symbol": "BNTXX",
+        "name": "Tax-Free Money Market Fund - Investor Class",
+        "category": "Other Tax Exempt",
+        "yield": "1.90%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "BPRXX": {
+        "symbol": "BPRXX",
+        "name": "Prime Money Market Fund - Investor Class",
+        "category": "Prime",
+        "yield": "3.95%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BPTXX": {
+        "symbol": "BPTXX",
+        "name": "T-FUND - Cash Management",
+        "category": "Government",
+        "yield": "3.70%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BRPXX": {
+        "symbol": "BRPXX",
+        "name": "FEDFUND - Private Client",
+        "category": "Government",
+        "yield": "3.69%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BTAXX": {
+        "symbol": "BTAXX",
+        "name": "T-FUND - Administration",
+        "category": "Government",
+        "yield": "4.09%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BTCXX": {
+        "symbol": "BTCXX",
+        "name": "TREASURY TRUST FUND - Cash Management",
+        "category": "Government",
+        "yield": "3.67%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BUCXX": {
+        "symbol": "BUCXX",
+        "name": "TREASURY TRUST FUND - Capital",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "BUPXX": {
+        "symbol": "BUPXX",
+        "name": "FEDFUND - Premier",
+        "category": "Government",
+        "yield": "4.20%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "CACXX": {
+        "symbol": "CACXX",
+        "name": "FEDERATED HERMES CALIFORNIA MUNICIPAL CASH TRUST - Service Shares",
+        "category": "Single State",
+        "yield": "2.14%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "CAIXX": {
+        "symbol": "CAIXX",
+        "name": "FEDERATED HERMES CALIFORNIA MUNICIPAL CASH TRUST - Wealth Shares",
+        "category": "Single State",
+        "yield": "2.39%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "CALXX": {
+        "symbol": "CALXX",
+        "name": "FEDERATED HERMES CALIFORNIA MUNICIPAL CASH TRUST - Cash II Shares",
+        "category": "Single State",
+        "yield": "1.99%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "CCCXX": {
+        "symbol": "CCCXX",
+        "name": "FEDERATED HERMES CALIFORNIA MUNICIPAL CASH TRUST - Capital Shares",
+        "category": "Single State",
+        "yield": "2.29%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "CCSXX": {
+        "symbol": "CCSXX",
+        "name": "FEDERATED HERMES CALIFORNIA MUNICIPAL CASH TRUST - Cash Series Shares",
+        "category": "Single State",
+        "yield": "1.64%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "CEAXX": {
+        "symbol": "CEAXX",
+        "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS A",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "CEIXX": {
+        "symbol": "CEIXX",
+        "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS I",
+        "category": "Government",
+        "yield": "4.17%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "CIIXX": {
+        "symbol": "CIIXX",
+        "name": "Western Asset Institutional U.S. Treasury Reserves - 0L",
+        "category": "Government",
+        "yield": "4.16%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "CPFXX": {
+        "symbol": "CPFXX",
+        "name": "Capital Preservation Fund - Investor Class",
+        "category": "Government",
+        "yield": "3.92%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "DAGXX": {
+        "symbol": "DAGXX",
+        "name": "Dreyfus Government Cash Management -CLASS C",
+        "category": "Government",
+        "yield": "4.11%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DAPXX": {
+        "symbol": "DAPXX",
+        "name": "Dreyfus Government Securities Cash Management -CLASS C",
+        "category": "Government",
+        "yield": "3.99%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DARXX": {
+        "symbol": "DARXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS C",
+        "category": "Government",
+        "yield": "4.01%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DBFXX": {
+        "symbol": "DBFXX",
+        "name": "Dreyfus Government Cash Management -CLASS I",
+        "category": "Government",
+        "yield": "3.90%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DBLXX": {
+        "symbol": "DBLXX",
+        "name": "Dreyfus Government Cash Management -CLASS O",
+        "category": "Government",
+        "yield": "4.21%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DGCXX": {
+        "symbol": "DGCXX",
+        "name": "Dreyfus Government Cash Management -CLASS A",
+        "category": "Government",
+        "yield": "4.21%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DGPXX": {
+        "symbol": "DGPXX",
+        "name": "Dreyfus Government Securities Cash Management -CLASS R",
+        "category": "Government",
+        "yield": "3.69%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DGQXX": {
+        "symbol": "DGQXX",
+        "name": "Dreyfus Government Cash Management -CLASS W",
+        "category": "Government",
+        "yield": "3.96%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DGUXX": {
+        "symbol": "DGUXX",
+        "name": "Dreyfus Government Cash Management -CLASS E",
+        "category": "Government",
+        "yield": "3.41%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DGVXX": {
+        "symbol": "DGVXX",
+        "name": "Dreyfus Government Cash Management -CLASS B",
+        "category": "Government",
+        "yield": "3.96%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DHLXX": {
+        "symbol": "DHLXX",
+        "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS B",
+        "category": "Government",
+        "yield": "4.25%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DIPXX": {
+        "symbol": "DIPXX",
+        "name": "Dreyfus Government Securities Cash Management -CLASS A",
+        "category": "Government",
+        "yield": "4.09%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DIRXX": {
+        "symbol": "DIRXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS A",
+        "category": "Government",
+        "yield": "4.11%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DNSXX": {
+        "symbol": "DNSXX",
+        "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS A",
+        "category": "Government",
+        "yield": "4.30%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DPGXX": {
+        "symbol": "DPGXX",
+        "name": "Dreyfus Government Cash Management -CLASS R",
+        "category": "Government",
+        "yield": "3.81%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DPRXX": {
+        "symbol": "DPRXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS R",
+        "category": "Government",
+        "yield": "3.71%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DSHXX": {
+        "symbol": "DSHXX",
+        "name": "Dreyfus Institutional Preferred Government Money Market -CLASS B",
+        "category": "Government",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DSVXX": {
+        "symbol": "DSVXX",
+        "name": "Dreyfus Institutional Preferred Government Money Market -CLASS A",
+        "category": "Government",
+        "yield": "4.29%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTAXX": {
+        "symbol": "DTAXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS C",
+        "category": "Government",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTHXX": {
+        "symbol": "DTHXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS E",
+        "category": "Government",
+        "yield": "3.31%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTJXX": {
+        "symbol": "DTJXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS W",
+        "category": "Government",
+        "yield": "3.84%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTKXX": {
+        "symbol": "DTKXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS W",
+        "category": "Government",
+        "yield": "3.94%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTLXX": {
+        "symbol": "DTLXX",
+        "name": "Dreyfus Treasury & Agency Liquidity Money Market Fund",
+        "category": "Government",
+        "yield": "4.30%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTNXX": {
+        "symbol": "DTNXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS E",
+        "category": "Government",
+        "yield": "3.39%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTPXX": {
+        "symbol": "DTPXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS R",
+        "category": "Government",
+        "yield": "3.79%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTRXX": {
+        "symbol": "DTRXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS A",
+        "category": "Government",
+        "yield": "4.19%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DTVXX": {
+        "symbol": "DTVXX",
+        "name": "Dreyfus Treasury Obligations Cash Management -CLASS B",
+        "category": "Government",
+        "yield": "3.94%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DVPXX": {
+        "symbol": "DVPXX",
+        "name": "Dreyfus Government Securities Cash Management -CLASS B",
+        "category": "Government",
+        "yield": "3.84%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "DVRXX": {
+        "symbol": "DVRXX",
+        "name": "Dreyfus Treasury Securities Cash Management -CLASS B",
+        "category": "Government",
+        "yield": "3.86%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "EJUXX": {
+        "symbol": "EJUXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Empower",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FABXX": {
+        "symbol": "FABXX",
+        "name": "Fidelity California Municipal Money Market Fund",
+        "category": "Single State",
+        "yield": "1.89%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FAIXX": {
+        "symbol": "FAIXX",
+        "name": "Institutional Prime Obligations Fund - Class Y",
+        "category": "Prime",
+        "yield": "4.03%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FAWXX": {
+        "symbol": "FAWXX",
+        "name": "Fidelity New York Municipal Money Market Fund",
+        "category": "Single State",
+        "yield": "2.08%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FFTXX": {
+        "symbol": "FFTXX",
+        "name": "FEDERATED HERMES INSTITUTIONAL TAX-FREE CASH TRUST - Institutional Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FIGXX": {
+        "symbol": "FIGXX",
+        "name": "Fidelity Investments Money Market Government Portfolio - Class I",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FIUXX": {
+        "symbol": "FIUXX",
+        "name": "Institutional Prime Obligations Fund - Class T",
+        "category": "Prime",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FLGXX": {
+        "symbol": "FLGXX",
+        "name": "Fidelity Flex Government Money Market Fund",
+        "category": "Government",
+        "yield": "4.37%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FLPXX": {
+        "symbol": "FLPXX",
+        "name": "Meeder Government Money Market Fund - Class E",
+        "category": "Government",
+        "yield": "4.15%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "FMFXX": {
+        "symbol": "FMFXX",
+        "name": "Franklin U.S. Government Money Fund - Class A",
+        "category": "Government",
+        "yield": "3.83%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FNKXX": {
+        "symbol": "FNKXX",
+        "name": "Fidelity New York Municipal Money Market Fund - Institutional Class",
+        "category": "Single State",
+        "yield": "2.29%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FOBXX": {
+        "symbol": "FOBXX",
+        "name": "Franklin OnChain U.S. Government Money Fund",
+        "category": "Government",
+        "yield": "4.04%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FODXX": {
+        "symbol": "FODXX",
+        "name": "U.S. Treasury Money Market Fund - Class D",
+        "category": "Government",
+        "yield": "3.72%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOEXX": {
+        "symbol": "FOEXX",
+        "name": "U.S. Treasury Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.57%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOIXX": {
+        "symbol": "FOIXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Class III",
+        "category": "Government",
+        "yield": "3.90%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOPXX": {
+        "symbol": "FOPXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Class IV",
+        "category": "Government",
+        "yield": "3.65%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FORXX": {
+        "symbol": "FORXX",
+        "name": "U.S. Treasury Money Market Fund - Class X",
+        "category": "Government",
+        "yield": "4.16%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOXXX": {
+        "symbol": "FOXXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Class II",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOYXX": {
+        "symbol": "FOYXX",
+        "name": "U.S. Treasury Money Market Fund - Class Y",
+        "category": "Government",
+        "yield": "3.87%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FOZXX": {
+        "symbol": "FOZXX",
+        "name": "U.S. Treasury Money Market Fund - Class Z",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FPIXX": {
+        "symbol": "FPIXX",
+        "name": "Institutional Prime Obligations Fund - Class V",
+        "category": "Prime",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FPZXX": {
+        "symbol": "FPZXX",
+        "name": "Institutional Prime Obligations Fund - Class Z",
+        "category": "Prime",
+        "yield": "4.28%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FRFXX": {
+        "symbol": "FRFXX",
+        "name": "FEDERATED HERMES CAPITAL RESERVES FUND - Federated Hermes Capital Reserves Fund",
+        "category": "Prime",
+        "yield": "3.53%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FRQXX": {
+        "symbol": "FRQXX",
+        "name": "Franklin U.S. Government Money Fund - Class R",
+        "category": "Government",
+        "yield": "3.33%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FRRXX": {
+        "symbol": "FRRXX",
+        "name": "Franklin U.S. Government Money Fund - Class R6",
+        "category": "Government",
+        "yield": "3.85%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FRSXX": {
+        "symbol": "FRSXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Institutional Class",
+        "category": "Government",
+        "yield": "4.19%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FSBXX": {
+        "symbol": "FSBXX",
+        "name": "Fidelity California Municipal Money Market Fund - Institutional Class",
+        "category": "Single State",
+        "yield": "2.08%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FSIXX": {
+        "symbol": "FSIXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Class I",
+        "category": "Government",
+        "yield": "4.15%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FSNXX": {
+        "symbol": "FSNXX",
+        "name": "Fidelity New York Municipal Money Market Fund - Premium Class",
+        "category": "Single State",
+        "yield": "2.20%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FSPXX": {
+        "symbol": "FSPXX",
+        "name": "Fidelity California Municipal Money Market Fund - Premium Class",
+        "category": "Single State",
+        "yield": "1.99%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FTEXX": {
+        "symbol": "FTEXX",
+        "name": "Fidelity Municipal Money Market Fund",
+        "category": "Other Tax Exempt",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "FTKXX": {
+        "symbol": "FTKXX",
+        "name": "U.S. Treasury Money Market Fund - Class T",
+        "category": "Government",
+        "yield": "3.92%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FTQXX": {
+        "symbol": "FTQXX",
+        "name": "Franklin U.S. Government Money Fund - Class C",
+        "category": "Government",
+        "yield": "3.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FTYXX": {
+        "symbol": "FTYXX",
+        "name": "Fidelity Investments Money Market Treasury Only Portfolio - Select Class",
+        "category": "Government",
+        "yield": "4.10%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FUIXX": {
+        "symbol": "FUIXX",
+        "name": "U.S. Treasury Money Market Fund - Class V",
+        "category": "Government",
+        "yield": "4.02%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FYHXX": {
+        "symbol": "FYHXX",
+        "name": "Fidelity Treasury Digital Fund",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FZDXX": {
+        "symbol": "FZDXX",
+        "name": "Fidelity Money Market Fund - Premium Class",
+        "category": "Prime",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "FZEXX": {
+        "symbol": "FZEXX",
+        "name": "Fidelity Tax-Exempt Money Market Fund - Premium Class",
+        "category": "Other Tax Exempt",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "GABXX": {
+        "symbol": "GABXX",
+        "name": "Gabelli U.S Treasury Money Market Fund - 1I",
+        "category": "Government",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GBAXX": {
+        "symbol": "GBAXX",
+        "name": "Gabelli U.S Treasury Money Market Fund - Z",
+        "category": "Government",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GBCXX": {
+        "symbol": "GBCXX",
+        "name": "Gabelli U.S Treasury Money Market Fund - C",
+        "category": "Government",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GFAXX": {
+        "symbol": "GFAXX",
+        "name": "SDIT GOVERNMENT - CLASS CAA",
+        "category": "Government",
+        "yield": "3.98%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GMBXX": {
+        "symbol": "GMBXX",
+        "name": "Dreyfus Money Market Fund -CLASS B",
+        "category": "Prime",
+        "yield": "3.50%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GMGXX": {
+        "symbol": "GMGXX",
+        "name": "Dreyfus Money Market Fund -CLASS G",
+        "category": "Prime",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GMIXX": {
+        "symbol": "GMIXX",
+        "name": "Nationwide Government Money Market Fund - Class R6",
+        "category": "Government",
+        "yield": "3.94%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GMMXX": {
+        "symbol": "GMMXX",
+        "name": "Dreyfus Money Market Fund -CLASS A",
+        "category": "Prime",
+        "yield": "3.96%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "GMYXX": {
+        "symbol": "GMYXX",
+        "name": "MONEY MARKET FUND - Institutional Class",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GMZXX": {
+        "symbol": "GMZXX",
+        "name": "MONEY MARKET FUND - Investor Class",
+        "category": "Government",
+        "yield": "3.96%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GRAXX": {
+        "symbol": "GRAXX",
+        "name": "FEDERATED HERMES GOVERNMENT RESERVES FUND - Class A Shares",
+        "category": "Government",
+        "yield": "3.51%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GRCXX": {
+        "symbol": "GRCXX",
+        "name": "FEDERATED HERMES GOVERNMENT RESERVES FUND - Class C Shares",
+        "category": "Government",
+        "yield": "3.13%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GRFXX": {
+        "symbol": "GRFXX",
+        "name": "FEDERATED HERMES GOVERNMENT RESERVES FUND - Class P Shares",
+        "category": "Government",
+        "yield": "3.36%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "GRGXX": {
+        "symbol": "GRGXX",
+        "name": "FEDERATED HERMES GOVERNMENT RESERVES FUND - Class F Shares",
+        "category": "Government",
+        "yield": "3.51%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "HDIXX": {
+        "symbol": "HDIXX",
+        "name": "Daily Income Fund - Single Class",
+        "category": "Government",
+        "yield": "3.77%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "HGOXX": {
+        "symbol": "HGOXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Investor",
+        "category": "Government",
+        "yield": "3.88%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "HTIXX": {
+        "symbol": "HTIXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Reserve",
+        "category": "Government",
+        "yield": "3.68%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "IATXX": {
+        "symbol": "IATXX",
+        "name": "Transamerica Government Money Market - Class A",
+        "category": "Government",
+        "yield": "3.66%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ICGXX": {
+        "symbol": "ICGXX",
+        "name": "DWS Treasury Portfolio - Capital Shares",
+        "category": "Government",
+        "yield": "4.17%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ICTXX": {
+        "symbol": "ICTXX",
+        "name": "DWS Treasury Portfolio - Institutional Shares",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "IJTXX": {
+        "symbol": "IJTXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Institutional",
+        "category": "Government",
+        "yield": "4.14%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "IMLXX": {
+        "symbol": "IMLXX",
+        "name": "Transamerica Government Money Market - Class C",
+        "category": "Government",
+        "yield": "2.91%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "INBXX": {
+        "symbol": "INBXX",
+        "name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund - Class A Shares",
+        "category": "Single State",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "INDXX": {
+        "symbol": "INDXX",
+        "name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund - Administration Shares",
+        "category": "Single State",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "INPXX": {
+        "symbol": "INPXX",
+        "name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund - Preferred Shares",
+        "category": "Single State",
+        "yield": "2.38%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "INSXX": {
+        "symbol": "INSXX",
+        "name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund - Service Shares",
+        "category": "Single State",
+        "yield": "1.98%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "INYXX": {
+        "symbol": "INYXX",
+        "name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund - Class I Shares",
+        "category": "Single State",
+        "yield": "2.48%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "IPLXX": {
+        "symbol": "IPLXX",
+        "name": "Voya Government Liquid Assets Portfolio - 5",
+        "category": "Government",
+        "yield": "4.07%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ISPXX": {
+        "symbol": "ISPXX",
+        "name": "Voya Government Liquid Assets Portfolio - 2",
+        "category": "Government",
+        "yield": "3.82%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ITLXX": {
+        "symbol": "ITLXX",
+        "name": "Voya Government Liquid Assets Portfolio - 1",
+        "category": "Government",
+        "yield": "3.67%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "ITVXX": {
+        "symbol": "ITVXX",
+        "name": "DWS Treasury Portfolio - Investment Class Shares",
+        "category": "Government",
+        "yield": "3.83%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "IUSXX": {
+        "symbol": "IUSXX",
+        "name": "DWS Treasury Portfolio - DWS U.S. Treasury Money Fund Class S",
+        "category": "Government",
+        "yield": "4.11%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "IVMXX": {
+        "symbol": "IVMXX",
+        "name": "Voya Government Money Market Portfolio - 5",
+        "category": "Government",
+        "yield": "3.95%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "JAAXX": {
+        "symbol": "JAAXX",
+        "name": "Money Market Trust - Series II",
+        "category": "Government",
+        "yield": "3.83%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "JABXX": {
+        "symbol": "JABXX",
+        "name": "Money Market Trust - Series NAV",
+        "category": "Government",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "JHOXX": {
+        "symbol": "JHOXX",
+        "name": "Money Market Trust - Series I",
+        "category": "Government",
+        "yield": "4.03%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "JPCXX": {
+        "symbol": "JPCXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Academy",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "JTCXX": {
+        "symbol": "JTCXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Capital",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "LTRXX": {
+        "symbol": "LTRXX",
+        "name": "Western Asset Institutional U.S. Treasury Reserves - 0I",
+        "category": "Government",
+        "yield": "4.11%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MCSXX": {
+        "symbol": "MCSXX",
+        "name": "MUNICASH - Institutional",
+        "category": "Other Tax Exempt",
+        "yield": "2.09%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "MIFXX": {
+        "symbol": "MIFXX",
+        "name": "Nationwide Government Money Market Fund - Investor",
+        "category": "Government",
+        "yield": "3.84%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MJPXX": {
+        "symbol": "MJPXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - IM",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MJTXX": {
+        "symbol": "MJTXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Morgan",
+        "category": "Government",
+        "yield": "3.78%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MMFXX": {
+        "symbol": "MMFXX",
+        "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
+        "category": "Government",
+        "yield": "3.64%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MMGXX": {
+        "symbol": "MMGXX",
+        "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
+        "category": "Government",
+        "yield": "3.68%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MMTXX": {
+        "symbol": "MMTXX",
+        "name": "Popular U.S. Government Money Market Fund, LLC - Class A Non-Withholding Shares",
+        "category": "Government",
+        "yield": "3.69%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "MMYXX": {
+        "symbol": "MMYXX",
+        "name": "Popular U.S. Government Money Market Fund, LLC - Class A Withholding Shares",
+        "category": "Government",
+        "yield": "3.69%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "NOSXX": {
+        "symbol": "NOSXX",
+        "name": "U.S. Government Select Money Market Fund - Fund Level",
+        "category": "Government",
+        "yield": "4.05%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "NWSXX": {
+        "symbol": "NWSXX",
+        "name": "Nationwide Government Money Market Fund - Service Class",
+        "category": "Government",
+        "yield": "3.64%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "NWTXX": {
+        "symbol": "NWTXX",
+        "name": "Allspring 100% Treasury Money Market Fund - Service Class",
+        "category": "Government",
+        "yield": "3.83%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "PBHXX": {
+        "symbol": "PBHXX",
+        "name": "Payden Cash Reserves Money Market Fund - TF",
+        "category": "Government",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "PCSXX": {
+        "symbol": "PCSXX",
+        "name": "Money Market Fund - Class A shares",
+        "category": "Prime",
+        "yield": "4.02%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "PGVXX": {
+        "symbol": "PGVXX",
+        "name": "Government Money Market Fund - Institutional shares",
+        "category": "Government",
+        "yield": "4.14%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "PGWXX": {
+        "symbol": "PGWXX",
+        "name": "Government Money Market Fund - R-6 shares",
+        "category": "Government",
+        "yield": "4.20%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "PISXX": {
+        "symbol": "PISXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Institutional Class",
+        "category": "Government",
+        "yield": "4.17%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "PIVXX": {
+        "symbol": "PIVXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.79%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "PJTXX": {
+        "symbol": "PJTXX",
+        "name": "JPMorgan U.S. Treasury Plus Money Market Fund - Premier",
+        "category": "Government",
+        "yield": "3.93%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "PMJXX": {
+        "symbol": "PMJXX",
+        "name": "Money Market Fund - Class J shares",
+        "category": "Prime",
+        "yield": "4.05%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "PRVXX": {
+        "symbol": "PRVXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Service Class",
+        "category": "Government",
+        "yield": "3.92%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "RGMXX": {
+        "symbol": "RGMXX",
+        "name": "RBC BlueBay U.S. Government Money Market Fund - A",
+        "category": "Government",
+        "yield": "4.13%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "RPGXX": {
+        "symbol": "RPGXX",
+        "name": "Davis Government Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.78%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "RRAXX": {
+        "symbol": "RRAXX",
+        "name": "Allspring 100% Treasury Money Market Fund - Roberts & Ryan Class",
+        "category": "Government",
+        "yield": "4.13%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "RRTXX": {
+        "symbol": "RRTXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Roberts & Ryan Class",
+        "category": "Government",
+        "yield": "4.17%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SCPXX": {
+        "symbol": "SCPXX",
+        "name": "SDIT TREASURY II FUND - CLASS F",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SCTXX": {
+        "symbol": "SCTXX",
+        "name": "Schwab AMT Tax-Free Money Fund - Ultra Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.38%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "SEOXX": {
+        "symbol": "SEOXX",
+        "name": "SDIT GOVERNMENT - Institutional",
+        "category": "Government",
+        "yield": "4.13%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SGAXX": {
+        "symbol": "SGAXX",
+        "name": "Saratoga U.S. Government Money Market Portfolio Class A",
+        "category": "Government",
+        "yield": "2.44%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SGMXX": {
+        "symbol": "SGMXX",
+        "name": "Saratoga U.S. Government Money Market Portfolio Class I",
+        "category": "Government",
+        "yield": "2.84%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SGPXX": {
+        "symbol": "SGPXX",
+        "name": "UBS Select Government Preferred Fund - Basis A",
+        "category": "Government",
+        "yield": "4.24%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SNAXX": {
+        "symbol": "SNAXX",
+        "name": "Schwab Prime Advantage Money Fund - Ultra Shares",
+        "category": "Prime",
+        "yield": "4.30%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SNRXX": {
+        "symbol": "SNRXX",
+        "name": "Schwab Retirement Government Money Fund - Single class",
+        "category": "Government",
+        "yield": "4.19%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SPKXX": {
+        "symbol": "SPKXX",
+        "name": "Dreyfus Government Cash Management -CLASS S",
+        "category": "Government",
+        "yield": "4.21%",
+        "isTaxFree": false,
+        "yieldDate": "2025-06-30"
+    },
+    "SPRXX": {
+        "symbol": "SPRXX",
+        "name": "Fidelity Money Market Fund",
+        "category": "Prime",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "STPXX": {
+        "symbol": "STPXX",
+        "name": "UBS Select Treasury Preferred Fund - Single Class",
+        "category": "Government",
+        "yield": "4.25%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SWOXX": {
+        "symbol": "SWOXX",
+        "name": "Schwab Municipal Money Fund - Ultra Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.37%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "SWPXX": {
+        "symbol": "SWPXX",
+        "name": "Schwab Government Money Market Portfolio - Single class",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SWTXX": {
+        "symbol": "SWTXX",
+        "name": "Schwab Municipal Money Fund - Investor Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.22%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "SWVXX": {
+        "symbol": "SWVXX",
+        "name": "Schwab Prime Advantage Money Fund - Investor Shares",
+        "category": "Prime",
+        "yield": "4.15%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "SWWXX": {
+        "symbol": "SWWXX",
+        "name": "Schwab AMT Tax-Free Money Fund - Investor Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.23%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "SZCXX": {
+        "symbol": "SZCXX",
+        "name": "Saratoga U.S. Government Money Market Portfolio Class C",
+        "category": "Government",
+        "yield": "1.84%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TAMXX": {
+        "symbol": "TAMXX",
+        "name": "Transamerica Government Money Market - Class I",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TCGXX": {
+        "symbol": "TCGXX",
+        "name": "SDIT GOVERNMENT II - CLASS F",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TCIXX": {
+        "symbol": "TCIXX",
+        "name": "Nuveen Money Market Fund - Class R6",
+        "category": "Government",
+        "yield": "4.19%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TCRXX": {
+        "symbol": "TCRXX",
+        "name": "U.S. Government Money Market Fund - Investor Class",
+        "category": "Government",
+        "yield": "3.97%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TCSXX": {
+        "symbol": "TCSXX",
+        "name": "FEDERATED HERMES TRUST FOR U.S. TREASURY OBLIGATIONS - Cash Series Shares",
+        "category": "Government",
+        "yield": "3.33%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TDDXX": {
+        "symbol": "TDDXX",
+        "name": "FEDFUND - Dollar",
+        "category": "Government",
+        "yield": "3.95%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TFDXX": {
+        "symbol": "TFDXX",
+        "name": "FEDFUND - Institutional",
+        "category": "Government",
+        "yield": "4.20%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TFEXX": {
+        "symbol": "TFEXX",
+        "name": "T-FUND - Dollar",
+        "category": "Government",
+        "yield": "3.94%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TFGXX": {
+        "symbol": "TFGXX",
+        "name": "Transamerica Government Money Market - Class R4",
+        "category": "Government",
+        "yield": "3.88%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TGRXX": {
+        "symbol": "TGRXX",
+        "name": "Transamerica Government Money Market - Class R2",
+        "category": "Government",
+        "yield": "3.69%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TGTXX": {
+        "symbol": "TGTXX",
+        "name": "Transamerica Government Money Market - Class I3",
+        "category": "Government",
+        "yield": "3.99%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TIEXX": {
+        "symbol": "TIEXX",
+        "name": "Nuveen Money Market Fund - Retirement",
+        "category": "Government",
+        "yield": "3.94%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TIMXX": {
+        "symbol": "TIMXX",
+        "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 2",
+        "category": "Government",
+        "yield": "4.08%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TIRXX": {
+        "symbol": "TIRXX",
+        "name": "Nuveen Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.87%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TLMXX": {
+        "symbol": "TLMXX",
+        "name": "Nuveen Life Money Market Fund",
+        "category": "Government",
+        "yield": "4.18%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TMCXX": {
+        "symbol": "TMCXX",
+        "name": "TEMPCASH - Institutional",
+        "category": "Prime",
+        "yield": "4.32%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TMHXX": {
+        "symbol": "TMHXX",
+        "name": "Nuveen Money Market Fund - Class I",
+        "category": "Government",
+        "yield": "3.83%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TPPXX": {
+        "symbol": "TPPXX",
+        "name": "Nuveen Money Market Fund - Premier",
+        "category": "Government",
+        "yield": "4.04%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TSTXX": {
+        "symbol": "TSTXX",
+        "name": "T-FUND - Institutional",
+        "category": "Government",
+        "yield": "4.19%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TTDXX": {
+        "symbol": "TTDXX",
+        "name": "TREASURY TRUST FUND - Dollar",
+        "category": "Government",
+        "yield": "3.93%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TTIXX": {
+        "symbol": "TTIXX",
+        "name": "FEDERATED HERMES TRUST FOR U.S. TREASURY OBLIGATIONS - Cash II Shares",
+        "category": "Government",
+        "yield": "3.46%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TTOXX": {
+        "symbol": "TTOXX",
+        "name": "FEDERATED HERMES TRUST FOR U.S. TREASURY OBLIGATIONS - Institutional Shares",
+        "category": "Government",
+        "yield": "4.16%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TTQXX": {
+        "symbol": "TTQXX",
+        "name": "FEDERATED HERMES TRUST FOR U.S. TREASURY OBLIGATIONS - Service Shares",
+        "category": "Government",
+        "yield": "3.91%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TTTXX": {
+        "symbol": "TTTXX",
+        "name": "TREASURY TRUST FUND - Institutional",
+        "category": "Government",
+        "yield": "4.17%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TUGXX": {
+        "symbol": "TUGXX",
+        "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 1",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "TUIXX": {
+        "symbol": "TUIXX",
+        "name": "RBC BlueBay U.S. Government Money Market Fund - Investor",
+        "category": "Government",
+        "yield": "3.35%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "UATXX": {
+        "symbol": "UATXX",
+        "name": "Victory Treasury Money Market Trust",
+        "category": "Government",
+        "yield": "3.92%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "UPRXX": {
+        "symbol": "UPRXX",
+        "name": "UBS Prime Reserves Fund - Single Class",
+        "category": "Prime",
+        "yield": "4.30%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "USAXX": {
+        "symbol": "USAXX",
+        "name": "Victory Money Market Fund",
+        "category": "Prime",
+        "yield": "3.98%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "USEXX": {
+        "symbol": "USEXX",
+        "name": "Victory Tax Exempt Money Market Fund",
+        "category": "Other Tax Exempt",
+        "yield": "1.90%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "UTSXX": {
+        "symbol": "UTSXX",
+        "name": "The United States Treasury Trust - Investor Shares",
+        "category": "Government",
+        "yield": "3.51%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VMFXX": {
+        "symbol": "VMFXX",
+        "name": "Vanguard Federal Money Market Fund - Investor Shares",
+        "category": "Government",
+        "yield": "4.22%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VMRXX": {
+        "symbol": "VMRXX",
+        "name": "Vanguard Cash Reserves Federal Money Market Fund - Admiral Shares",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VMSXX": {
+        "symbol": "VMSXX",
+        "name": "Vanguard Municipal Money Market Fund - Investor Shares",
+        "category": "Other Tax Exempt",
+        "yield": "2.27%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "VSLXX": {
+        "symbol": "VSLXX",
+        "name": "JPMorgan Securities Lending Money Market Fund - Agency SL",
+        "category": "Government",
+        "yield": "4.32%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VUSXX": {
+        "symbol": "VUSXX",
+        "name": "Vanguard Treasury Money Market Fund - Investor Shares",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VYAXX": {
+        "symbol": "VYAXX",
+        "name": "Voya Government Money Market Fund - 1",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VYBXX": {
+        "symbol": "VYBXX",
+        "name": "Voya Government Money Market Fund - 4",
+        "category": "Government",
+        "yield": "3.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VYCXX": {
+        "symbol": "VYCXX",
+        "name": "Voya Government Money Market Fund - 5",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VYFXX": {
+        "symbol": "VYFXX",
+        "name": "Vanguard New York Municipal Money Market Fund - Investor Shares",
+        "category": "Single State",
+        "yield": "2.22%",
+        "isTaxFree": true,
+        "yieldDate": "2025-05-30"
+    },
+    "VYGXX": {
+        "symbol": "VYGXX",
+        "name": "Voya Government Money Market Fund - 13",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "VYHXX": {
+        "symbol": "VYHXX",
+        "name": "Voya Government Money Market Fund - 11",
+        "category": "Government",
+        "yield": "4.00%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WAAXX": {
+        "symbol": "WAAXX",
+        "name": "Western Asset Premier Institutional Liquid Reserves - CC",
+        "category": "Prime",
+        "yield": "4.32%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WAGXX": {
+        "symbol": "WAGXX",
+        "name": "Wilmington U.S. Government Money Market Fund - AD",
+        "category": "Government",
+        "yield": "3.78%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WFTXX": {
+        "symbol": "WFTXX",
+        "name": "Allspring 100% Treasury Money Market Fund - Class A",
+        "category": "Government",
+        "yield": "3.80%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WGEXX": {
+        "symbol": "WGEXX",
+        "name": "Wilmington U.S. Government Money Market Fund - SL",
+        "category": "Government",
+        "yield": "4.05%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WGOXX": {
+        "symbol": "WGOXX",
+        "name": "Wilmington U.S. Government Money Market Fund - 0L",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WGSXX": {
+        "symbol": "WGSXX",
+        "name": "Wilmington U.S. Government Money Market Fund - 0S",
+        "category": "Government",
+        "yield": "3.75%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WOTXX": {
+        "symbol": "WOTXX",
+        "name": "Allspring 100% Treasury Money Market Fund - Institutional Class",
+        "category": "Government",
+        "yield": "4.13%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTAXX": {
+        "symbol": "WTAXX",
+        "name": "Wilmington U.S. Treasury Money Market Fund - AD",
+        "category": "Government",
+        "yield": "3.81%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTEXX": {
+        "symbol": "WTEXX",
+        "name": "Wilmington U.S. Treasury Money Market Fund - SL",
+        "category": "Government",
+        "yield": "4.05%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTIXX": {
+        "symbol": "WTIXX",
+        "name": "Wilmington U.S. Treasury Money Market Fund - 0L",
+        "category": "Government",
+        "yield": "4.12%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTLXX": {
+        "symbol": "WTLXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Select Class",
+        "category": "Government",
+        "yield": "4.23%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTPXX": {
+        "symbol": "WTPXX",
+        "name": "Allspring Treasury Plus Money Market Fund - Administator Class",
+        "category": "Government",
+        "yield": "4.03%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTQXX": {
+        "symbol": "WTQXX",
+        "name": "Wilmington U.S. Treasury Money Market Fund - PI",
+        "category": "Government",
+        "yield": "4.21%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTRXX": {
+        "symbol": "WTRXX",
+        "name": "Allspring 100% Treasury Money Market Fund - Administrator Class",
+        "category": "Government",
+        "yield": "4.03%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    },
+    "WTSXX": {
+        "symbol": "WTSXX",
+        "name": "Wilmington U.S. Treasury Money Market Fund - 0S",
+        "category": "Government",
+        "yield": "3.90%",
+        "isTaxFree": false,
+        "yieldDate": "2025-05-30"
+    }
+}
