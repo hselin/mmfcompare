@@ -102,6 +102,7 @@
         <div class="container mx-auto px-4">
             <div class="max-w-3xl mx-auto mb-8 p-4 bg-gray-900/50 rounded-lg border border-gray-700">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+                    <!-- Yield Toggle -->
                     <div class="flex items-center justify-center space-x-4">
                          <span class="text-sm font-medium text-gray-300">Nominal Yield</span>
                          <div class="relative inline-block w-10 mr-2 align-middle select-none transition duration-200 ease-in">
@@ -110,6 +111,7 @@
                         </div>
                         <span class="text-sm font-medium text-gray-300">Tax-Equivalent</span>
                     </div>
+                    <!-- Tax Rate Slider -->
                      <div>
                         <label for="taxRate" class="block text-sm font-medium text-gray-300 text-center">Your Marginal Tax Rate</label>
                         <div class="flex items-center space-x-3">
@@ -117,6 +119,11 @@
                             <span id="taxRateValue" class="block text-right font-semibold text-emerald-400 w-16">35.0%</span>
                         </div>
                     </div>
+                </div>
+                <!-- Filter Input Box -->
+                <div class="mt-6">
+                    <label for="filterInput" class="sr-only">Filter funds</label>
+                    <input type="text" id="filterInput" placeholder="Filter by symbol, name, or category..." class="w-full bg-gray-800 border border-gray-600 rounded-md py-2 px-4 text-gray-300 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500">
                 </div>
             </div>
 
@@ -144,49 +151,19 @@
                             <thead class="text-xs text-emerald-400 uppercase bg-gray-800/50">
                                 <tr>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="symbol">
-                                        <div class="sortable-header">
-                                            Symbol
-                                            <span class="sort-arrows">
-                                                <span class="arrow-up">▲</span>
-                                                <span class="arrow-down">▼</span>
-                                            </span>
-                                        </div>
+                                        <div class="sortable-header">Symbol<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
                                     </th>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="name">
-                                        <div class="sortable-header">
-                                            Fund Name
-                                            <span class="sort-arrows">
-                                                <span class="arrow-up">▲</span>
-                                                <span class="arrow-down">▼</span>
-                                            </span>
-                                        </div>
+                                        <div class="sortable-header">Fund Name<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
                                     </th>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="category">
-                                        <div class="sortable-header">
-                                            Category
-                                            <span class="sort-arrows">
-                                                <span class="arrow-up">▲</span>
-                                                <span class="arrow-down">▼</span>
-                                            </span>
-                                        </div>
+                                        <div class="sortable-header">Category<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
                                     </th>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="displayYield">
-                                        <div class="sortable-header justify-center">
-                                            7-Day Yield
-                                            <span class="sort-arrows">
-                                                <span class="arrow-up">▲</span>
-                                                <span class="arrow-down">▼</span>
-                                            </span>
-                                        </div>
+                                        <div class="sortable-header justify-center">7-Day Yield<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
                                     </th>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="yieldDate">
-                                        <div class="sortable-header">
-                                            Updated
-                                            <span class="sort-arrows">
-                                                <span class="arrow-up">▲</span>
-                                                <span class="arrow-down">▼</span>
-                                            </span>
-                                        </div>
+                                        <div class="sortable-header">Updated<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
                                     </th>
                                 </tr>
                             </thead>
@@ -217,30 +194,22 @@
                 <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
                     <h4 class="font-bold text-emerald-400 mb-2">Understanding Money Market Funds</h4>
                     <p class="text-gray-400">Learn the basics of MMFs, how they work, and their role as a low-risk cash management tool.</p>
-                    <a href="https://www.investopedia.com/terms/m/money-marketfund.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">
-                        Read More &rarr;
-                    </a>
+                    <a href="https://www.investopedia.com/terms/m/money-marketfund.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">Read More &rarr;</a>
                 </div>
                 <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
                     <h4 class="font-bold text-emerald-400 mb-2">De-mystifying 7-Day SEC Yield</h4>
                     <p class="text-gray-400">Understand how this standardized yield is calculated and why it's used to compare different money market funds.</p>
-                    <a href="https://www.investopedia.com/terms/s/seven-day-yield.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">
-                        Read More &rarr;
-                    </a>
+                    <a href="https://www.investopedia.com/terms/s/seven-day-yield.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">Read More &rarr;</a>
                 </div>
                 <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
                     <h4 class="font-bold text-emerald-400 mb-2">Taxable vs. Tax-Exempt Yields</h4>
                     <p class="text-gray-400">A look at the key differences between taxable and municipal (tax-exempt) funds and how to compare them.</p>
-                     <a href="https://www.schwab.com/money-market-funds" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">
-                        Read More &rarr;
-                    </a>
+                     <a href="https://www.schwab.com/money-market-funds" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">Read More &rarr;</a>
                 </div>
                 <div class="bg-gray-800 p-4 rounded-xl border border-gray-700">
                     <h4 class="font-bold text-emerald-400 mb-2">MMFs vs. Savings Accounts</h4>
                     <p class="text-gray-400">Discover the key differences in risk, returns, and insurance between money market funds and bank savings accounts.</p>
-                     <a href="https://www.investopedia.com/articles/mutualfund/07/money_market_savings.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">
-                        Read More &rarr;
-                    </a>
+                     <a href="https://www.investopedia.com/articles/mutualfund/07/money_market_savings.asp" target="_blank" rel="noopener noreferrer" class="block text-emerald-400 hover:text-emerald-300 transition-colors mt-2">Read More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -256,6 +225,7 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", async () => {
+            // --- DOM Element References ---
             const loading = document.getElementById("loading");
             const error = document.getElementById("error");
             const fundsTableContainer = document.getElementById("funds-table-container");
@@ -269,12 +239,15 @@
             const dataInfoContainer = document.getElementById('data-info-container');
             const exportCsvBtn = document.getElementById('exportCsvBtn');
             const lastUpdatedEl = document.getElementById('last-updated-timestamp');
+            const filterInput = document.getElementById('filterInput');
 
+            // --- State Variables ---
             let allFunds = [];
             let displayFunds = [];
-            let currentSort = { column: 'symbol', direction: 'asc' };
+            let currentSort = { column: 'displayYield', direction: 'desc' };
             const domElements = { desktop: new Map(), mobile: new Map() };
 
+            // --- Utility Functions ---
             const throttle = (func, limit) => {
                 let inThrottle;
                 return function() {
@@ -288,22 +261,42 @@
                 }
             };
 
+            const debounce = (func, delay) => {
+                let timeoutId;
+                return function(...args) {
+                    const context = this;
+                    clearTimeout(timeoutId);
+                    timeoutId = setTimeout(() => func.apply(context, args), delay);
+                };
+            };
+
+            // --- Data Processing and Rendering ---
+
             const calculateDisplayYields = () => {
+                const filterText = filterInput.value.trim().toLowerCase();
+                let filteredFunds = allFunds;
+
+                if (filterText) {
+                    filteredFunds = allFunds.filter(fund =>
+                        fund.symbol.toLowerCase().includes(filterText) ||
+                        fund.name.toLowerCase().includes(filterText) ||
+                        (fund.category && fund.category.toLowerCase().includes(filterText))
+                    );
+                }
+
                 const showTaxEquivalent = yieldToggle.checked;
                 const taxRate = parseFloat(taxRateSlider.value) / 100;
 
-                displayFunds = allFunds.map(fund => {
+                displayFunds = filteredFunds.map(fund => {
                     let displayYield = parseFloat(fund.yield);
                     if (showTaxEquivalent && fund.isTaxFree) {
                         displayYield = parseFloat(fund.yield) / (1 - taxRate);
                     }
-                    return { ...fund, displayYield: displayYield.toFixed(2) + '%' };
+                    return { ...fund, displayYield: displayYield };
                 });
             };
 
             const createElements = () => {
-                fundsBodyDesktop.innerHTML = '';
-                fundsBodyMobile.innerHTML = '';
                 domElements.desktop.clear();
                 domElements.mobile.clear();
 
@@ -320,21 +313,21 @@
             };
 
             const updateAndRenderDOM = () => {
+                const desktopFragment = document.createDocumentFragment();
+                const mobileFragment = document.createDocumentFragment();
+
                 displayFunds.forEach((fund, index) => {
-                    const yieldValue = parseFloat(fund.displayYield);
+                    const yieldValue = fund.displayYield;
                     const date = new Date(fund.yieldDate + 'T00:00:00');
                     const formattedDate = date.toLocaleDateString('en-US', {
-                        year: 'numeric',
-                        month: '2-digit',
-                        day: '2-digit'
+                        year: 'numeric', month: '2-digit', day: '2-digit'
                     });
 
-                    // Update Desktop Row
                     const row = domElements.desktop.get(fund.symbol);
+                    const card = domElements.mobile.get(fund.symbol);
+
                     let rowClasses = "hover:bg-gray-700/50";
-                    if (index < displayFunds.length - 1) {
-                        rowClasses += " border-b border-gray-700";
-                    }
+                    if (index < displayFunds.length - 1) rowClasses += " border-b border-gray-700";
                     row.className = rowClasses;
                     row.innerHTML = `
                         <td class="py-4 px-6 font-medium text-gray-200 whitespace-nowrap">${fund.symbol}</td>
@@ -343,10 +336,8 @@
                         <td class="py-4 px-6 text-center font-semibold ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</td>
                         <td class="py-4 px-6 text-gray-400">${formattedDate}</td>
                     `;
-                    fundsBodyDesktop.appendChild(row);
+                    desktopFragment.appendChild(row);
 
-                    // Update Mobile Card
-                    const card = domElements.mobile.get(fund.symbol);
                     card.innerHTML = `
                         <div class="flex justify-between items-center">
                             <h3 class="font-bold text-lg text-white">${fund.symbol}</h3>
@@ -362,18 +353,20 @@
                             <span>${formattedDate}</span>
                         </div>
                     `;
-                    fundsBodyMobile.appendChild(card);
+                    mobileFragment.appendChild(card);
                 });
+
+                fundsBodyDesktop.innerHTML = '';
+                fundsBodyMobile.innerHTML = '';
+                fundsBodyDesktop.appendChild(desktopFragment);
+                fundsBodyMobile.appendChild(mobileFragment);
             };
 
             const sortAndRender = () => {
                 const { column, direction } = currentSort;
                 displayFunds.sort((a, b) => {
                     let valA, valB;
-                    if (column === 'displayYield') {
-                        valA = parseFloat(a.displayYield);
-                        valB = parseFloat(b.displayYield);
-                    } else if (column === 'yieldDate') {
+                    if (column === 'yieldDate') {
                         valA = new Date(a.yieldDate);
                         valB = new Date(b.yieldDate);
                     } else {
@@ -382,11 +375,8 @@
                     }
 
                     let comparison = 0;
-                    if (valA > valB) {
-                        comparison = 1;
-                    } else if (valA < valB) {
-                        comparison = -1;
-                    }
+                    if (valA > valB) comparison = 1;
+                    else if (valA < valB) comparison = -1;
 
                     return direction === 'asc' ? comparison : -comparison;
                 });
@@ -398,14 +388,13 @@
                     currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
                 } else {
                     currentSort.column = column;
-                    currentSort.direction = 'asc';
+                    currentSort.direction = column === 'displayYield' ? 'desc' : 'asc';
                 }
 
-                const allSortControls = document.querySelectorAll(`[data-sort]`);
-                allSortControls.forEach(control => {
+                document.querySelectorAll(`[data-sort]`).forEach(control => {
                     control.classList.remove('active', 'sort-asc', 'sort-desc');
-                     if (control.dataset.sort === currentSort.column) {
-                        control.classList.add('active', currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                    if (control.dataset.sort === currentSort.column) {
+                        control.classList.add('active', `sort-${currentSort.direction}`);
                     }
                 });
 
@@ -418,16 +407,8 @@
                     const button = document.createElement('button');
                     button.className = 'mobile-sort-btn flex items-center';
                     button.dataset.sort = column;
-
                     const text = header.querySelector('.sortable-header').childNodes[0].nodeValue.trim();
-                    button.innerHTML = `
-                        <span>${text}</span>
-                        <span class="sort-arrows ml-2">
-                            <span class="arrow-up">▲</span>
-                            <span class="arrow-down">▼</span>
-                        </span>
-                    `;
-
+                    button.innerHTML = `<span>${text}</span><span class="sort-arrows ml-2"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span>`;
                     button.addEventListener('click', () => changeSortColumn(column));
                     mobileSortButtonsContainer.appendChild(button);
                 });
@@ -441,17 +422,9 @@
             const exportToCsv = () => {
                 const headers = ["Symbol", "Fund Name", "Category", "7-Day Yield (%)", "Updated"];
                 const rows = displayFunds.map(fund => [
-                    fund.symbol,
-                    `"${fund.name}"`,
-                    fund.category || 'N/A',
-                    parseFloat(fund.displayYield),
-                    fund.yieldDate
+                    fund.symbol, `"${fund.name}"`, fund.category || 'N/A', fund.displayYield.toFixed(2), fund.yieldDate
                 ]);
-
-                let csvContent = "data:text/csv;charset=utf-8,"
-                    + headers.join(",") + "\n"
-                    + rows.map(e => e.join(",")).join("\n");
-
+                let csvContent = "data:text/csv;charset=utf-8," + headers.join(",") + "\n" + rows.map(e => e.join(",")).join("\n");
                 const encodedUri = encodeURI(csvContent);
                 const link = document.createElement("a");
                 link.setAttribute("href", encodedUri);
@@ -461,75 +434,64 @@
                 document.body.removeChild(link);
             }
 
+            // --- Event Listeners Setup ---
             const throttledUpdate = throttle(() => {
-                if(yieldToggle.checked) {
-                    updateAndRecalculate();
+                if (yieldToggle.checked) {
+                    window.requestAnimationFrame(updateAndRecalculate);
                 }
             }, 30);
+
+            const debouncedFilterUpdate = debounce(() => {
+                window.requestAnimationFrame(updateAndRecalculate);
+            }, 500);
+
+            filterInput.addEventListener('input', debouncedFilterUpdate);
 
             taxRateSlider.addEventListener('input', () => {
                 taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
                 throttledUpdate();
             });
-
-            yieldToggle.addEventListener('change', updateAndRecalculate);
-
+            yieldToggle.addEventListener('change', () => window.requestAnimationFrame(updateAndRecalculate));
             sortableHeaders.forEach(header => {
-                header.addEventListener("click", () => changeSortColumn(header.dataset.sort));
+                header.addEventListener("click", () => window.requestAnimationFrame(() => changeSortColumn(header.dataset.sort)));
             });
-
             exportCsvBtn.addEventListener('click', exportToCsv);
 
+            // --- Initial Application Load ---
             try {
                 initializeMobileSortControls();
                 const response = await fetch('money_market_funds.json');
-
-                if (!response.ok) {
-                    throw new Error(`Could not load data file. Status: ${response.status}`);
-                }
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
                 const data = await response.json();
-                const fundsDict = data.funds;
-                const lastUpdatedTimestamp = data.lastUpdated;
+                allFunds = Object.values(data.funds);
 
-                allFunds = Object.values(fundsDict);
-
-                if (lastUpdatedTimestamp) {
-                    const date = new Date(lastUpdatedTimestamp);
-                    const formattedTimestamp = date.toLocaleString('en-US', {
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric',
-                        hour: 'numeric',
-                        minute: '2-digit',
-                        timeZoneName: 'short'
-                    });
-                    lastUpdatedEl.textContent = `Data last modified: ${formattedTimestamp}`;
+                if (data.lastUpdated) {
+                    const date = new Date(data.lastUpdated);
+                    lastUpdatedEl.textContent = `Data last modified: ${date.toLocaleString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}`;
                 }
 
                 taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
 
                 createElements();
-                calculateDisplayYields();
 
-                const allSortControls = document.querySelectorAll(`[data-sort]`);
-                allSortControls.forEach(control => {
-                    control.classList.remove('active', 'sort-asc', 'sort-desc');
-                     if (control.dataset.sort === currentSort.column) {
-                        control.classList.add('active', currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                document.querySelectorAll(`[data-sort]`).forEach(control => {
+                    if (control.dataset.sort === currentSort.column) {
+                        control.classList.add('active', `sort-${currentSort.direction}`);
                     }
                 });
 
-                sortAndRender();
+                updateAndRecalculate();
 
                 loading.classList.add("hidden");
                 fundsTableContainer.classList.remove("hidden");
                 dataInfoContainer.classList.remove("hidden");
+
             } catch (err) {
                 loading.classList.add("hidden");
                 error.classList.remove("hidden");
                 const errorElement = document.querySelector("#error p");
-                errorElement.textContent = `Failed to load data: ${err.message}. Make sure 'money_market_funds.json' is in the same directory.`;
+                errorElement.textContent = `Failed to load data: ${err.message}. Make sure 'money_market_funds.json' is available.`;
                 console.error("Failed to fetch fund data:", err);
             }
         });
