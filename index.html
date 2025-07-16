@@ -36,6 +36,11 @@
             opacity: 0.3;
             transition: opacity 0.2s ease-in-out;
         }
+        /* CHANGE: Active sort header is now white for high contrast and consistency */
+        th.active .sortable-header {
+            color: white;
+            font-weight: 600;
+        }
         .sort-asc .arrow-up {
             opacity: 1;
         }
@@ -84,10 +89,26 @@
         .mobile-sort-btn.active .sort-arrows {
             display: inline-flex;
         }
+        .fund-item {
+            opacity: 0;
+            transform: translateY(15px);
+            transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+        }
+        .fund-item.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        /* New class for multi-line truncation */
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
     </style>
 </head>
 <body class="bg-gray-900 text-gray-300">
-    <header class="pt-16 pb-12 md:pt-20 md:pb-16 text-center">
+    <header class="pt-16 pb-20 md:pt-20 md:pb-28 text-center">
         <div class="container mx-auto px-6">
             <h1 class="text-4xl md:text-6xl font-bold text-white leading-tight mb-4">
                 Your Cash, <span class="gradient-text">Amplified</span>
@@ -98,9 +119,9 @@
         </div>
     </header>
 
-    <section class="bg-gray-800 py-12 md:py-16">
+    <section class="relative z-10 -mt-12 md:-mt-20 pb-12 md:pb-16">
         <div class="container mx-auto px-4">
-            <div class="max-w-3xl mx-auto mb-8 p-4 bg-gray-900/50 rounded-lg border border-gray-700">
+            <div class="max-w-3xl mx-auto mb-8 p-4 bg-gray-900/50 rounded-lg border border-gray-700 backdrop-blur-sm">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
                     <!-- Yield Toggle -->
                     <div class="flex items-center justify-center space-x-4">
@@ -128,8 +149,22 @@
             </div>
 
             <main class="bg-gray-900 p-6 rounded-2xl shadow-lg border border-gray-700">
-                <div id="loading" class="text-center py-8">
-                    <p class="text-gray-400 text-lg">Loading data...</p>
+                <div id="loading-skeleton">
+                    <div class="hidden md:block animate-pulse">
+                        <div class="h-12 bg-gray-800/50 rounded-t-md"></div>
+                        <div class="space-y-2 p-4">
+                            <div class="h-8 bg-gray-700/60 rounded"></div>
+                            <div class="h-8 bg-gray-700/60 rounded"></div>
+                            <div class="h-8 bg-gray-700/60 rounded"></div>
+                            <div class="h-8 bg-gray-700/60 rounded"></div>
+                            <div class="h-8 bg-gray-700/60 rounded"></div>
+                        </div>
+                    </div>
+                    <div class="md:hidden animate-pulse space-y-4">
+                        <div class="h-28 bg-gray-800 rounded-lg"></div>
+                        <div class="h-28 bg-gray-800 rounded-lg"></div>
+                        <div class="h-28 bg-gray-800 rounded-lg"></div>
+                    </div>
                 </div>
                 <div id="error" class="hidden text-center py-8 text-red-500">
                     <p>Failed to load data. Please try again later.</p>
@@ -146,9 +181,9 @@
                     </div>
 
                     <!-- Desktop Table -->
-                    <div class="hidden md:block overflow-x-auto">
+                    <div class="hidden md:block">
                         <table class="w-full text-sm text-left text-gray-400">
-                            <thead class="text-xs text-emerald-400 uppercase bg-gray-800/50">
+                            <thead class="text-xs text-gray-400 uppercase bg-gray-800/50">
                                 <tr>
                                     <th scope="col" class="py-3 px-6 cursor-pointer" data-sort="symbol">
                                         <div class="sortable-header">Symbol<span class="sort-arrows"><span class="arrow-up">▲</span><span class="arrow-down">▼</span></span></div>
@@ -176,18 +211,37 @@
                         <!-- Mobile cards will be injected here by JavaScript -->
                     </div>
                 </div>
+                <div id="empty-state" class="hidden text-center py-16">
+                    <svg class="mx-auto h-12 w-12 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    <h3 class="mt-2 text-lg font-semibold text-white">No funds found</h3>
+                    <p class="mt-1 text-sm text-gray-400">Your search did not match any funds.</p>
+                    <div class="mt-6">
+                        <button type="button" id="clear-filter-btn" class="inline-flex items-center rounded-md bg-emerald-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-emerald-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600">
+                            Clear search
+                        </button>
+                    </div>
+                </div>
             </main>
 
             <div id="data-info-container" class="mt-6 hidden">
                  <p id="last-updated-timestamp" class="text-xs text-gray-500 mb-4 text-center md:text-right"></p>
                  <div class="text-center">
-                    <button id="exportCsvBtn" class="bg-emerald-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-emerald-700 transition-colors">Download as CSV</button>
+                    <button id="exportCsvBtn" class="inline-flex items-center gap-2 bg-emerald-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-emerald-700 transition-colors">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                        <span>Download as CSV</span>
+                    </button>
                  </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-gray-900 py-20">
+    <!--
+      CHANGE 3: Reduced top padding here to close the gap between the button and this section.
+      Was: bg-gray-900 py-20
+    -->
+    <section class="bg-gray-900 pt-12 pb-20">
         <div class="container mx-auto px-6">
              <h2 class="text-2xl font-bold text-center mb-6 text-white">Learn More</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
@@ -226,13 +280,13 @@
     <script>
         document.addEventListener("DOMContentLoaded", async () => {
             // --- DOM Element References ---
-            const loading = document.getElementById("loading");
+            const loadingSkeleton = document.getElementById("loading-skeleton");
             const error = document.getElementById("error");
             const fundsTableContainer = document.getElementById("funds-table-container");
             const fundsBodyDesktop = document.getElementById("funds-body-desktop");
             const fundsBodyMobile = document.getElementById("funds-body-mobile");
             const mobileSortButtonsContainer = document.getElementById('mobile-sort-buttons');
-            const sortableHeaders = document.querySelectorAll("[data-sort]");
+            const sortableHeaders = document.querySelectorAll("th[data-sort]");
             const yieldToggle = document.getElementById('yieldToggle');
             const taxRateSlider = document.getElementById('taxRate');
             const taxRateValue = document.getElementById('taxRateValue');
@@ -240,12 +294,15 @@
             const exportCsvBtn = document.getElementById('exportCsvBtn');
             const lastUpdatedEl = document.getElementById('last-updated-timestamp');
             const filterInput = document.getElementById('filterInput');
+            const emptyState = document.getElementById('empty-state');
+            const clearFilterBtn = document.getElementById('clear-filter-btn');
 
             // --- State Variables ---
             let allFunds = [];
             let displayFunds = [];
             let currentSort = { column: 'displayYield', direction: 'desc' };
             const domElements = { desktop: new Map(), mobile: new Map() };
+            let animationObserver;
 
             // --- Utility Functions ---
             const throttle = (func, limit) => {
@@ -307,7 +364,6 @@
 
                     const card = document.createElement("div");
                     card.dataset.symbol = fund.symbol;
-                    card.className = "bg-gray-800 p-4 rounded-lg border border-gray-700 space-y-2";
                     domElements.mobile.set(fund.symbol, card);
                 });
             };
@@ -315,6 +371,18 @@
             const updateAndRenderDOM = () => {
                 const desktopFragment = document.createDocumentFragment();
                 const mobileFragment = document.createDocumentFragment();
+
+                fundsBodyDesktop.innerHTML = '';
+                fundsBodyMobile.innerHTML = '';
+
+                if (displayFunds.length === 0 && filterInput.value.trim() !== '') {
+                    fundsTableContainer.classList.add('hidden');
+                    emptyState.classList.remove('hidden');
+                    return;
+                } else {
+                    fundsTableContainer.classList.remove('hidden');
+                    emptyState.classList.add('hidden');
+                }
 
                 displayFunds.forEach((fund, index) => {
                     const yieldValue = fund.displayYield;
@@ -326,7 +394,7 @@
                     const row = domElements.desktop.get(fund.symbol);
                     const card = domElements.mobile.get(fund.symbol);
 
-                    let rowClasses = "hover:bg-gray-700/50";
+                    let rowClasses = "hover:bg-gray-700/50 fund-item";
                     if (index < displayFunds.length - 1) rowClasses += " border-b border-gray-700";
                     row.className = rowClasses;
                     row.innerHTML = `
@@ -338,12 +406,19 @@
                     `;
                     desktopFragment.appendChild(row);
 
+                    card.className = "bg-gray-800 p-4 rounded-lg border border-gray-700 space-y-2 fund-item";
                     card.innerHTML = `
-                        <div class="flex justify-between items-center">
+                        <div class="flex justify-between items-start">
                             <h3 class="font-bold text-lg text-white">${fund.symbol}</h3>
-                            <span class="text-sm text-gray-400">${fund.category || 'N/A'}</span>
+                             <span class="text-sm text-gray-400 text-right">${fund.category || 'N/A'}</span>
                         </div>
-                        <p class="text-sm text-gray-400">${fund.name}</p>
+                        <div class="flex justify-between items-center h-10">
+                            <p class="text-sm text-gray-400 pr-2 line-clamp-2">${fund.name}</p>
+                            ${fund.isTaxFree
+                                ? `<span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-cyan-800 bg-cyan-200 flex-shrink-0">Tax-Free</span>`
+                                : ''
+                            }
+                        </div>
                         <div class="flex justify-between items-baseline pt-2 border-t border-gray-700">
                             <span class="text-sm font-medium">7-Day Yield:</span>
                             <span class="font-semibold text-lg ${fund.isTaxFree ? 'text-cyan-400' : 'text-emerald-400'}">${yieldValue.toFixed(2)}%</span>
@@ -356,10 +431,14 @@
                     mobileFragment.appendChild(card);
                 });
 
-                fundsBodyDesktop.innerHTML = '';
-                fundsBodyMobile.innerHTML = '';
                 fundsBodyDesktop.appendChild(desktopFragment);
                 fundsBodyMobile.appendChild(mobileFragment);
+
+                // Use Intersection Observer to animate items as they scroll into view
+                const itemsToObserve = fundsTableContainer.querySelectorAll('.fund-item');
+                itemsToObserve.forEach(item => {
+                    animationObserver.observe(item);
+                });
             };
 
             const sortAndRender = () => {
@@ -383,6 +462,24 @@
                 updateAndRenderDOM();
             };
 
+            const updateSortVisuals = () => {
+                const { column, direction } = currentSort;
+                // Update desktop headers
+                sortableHeaders.forEach(header => {
+                    header.classList.remove('active', 'sort-asc', 'sort-desc');
+                    if (header.dataset.sort === column) {
+                        header.classList.add('active', `sort-${direction}`);
+                    }
+                });
+                // Update mobile buttons
+                document.querySelectorAll('.mobile-sort-btn').forEach(button => {
+                    button.classList.remove('active', 'sort-asc', 'sort-desc');
+                     if (button.dataset.sort === column) {
+                        button.classList.add('active', `sort-${direction}`);
+                    }
+                });
+            };
+
             const changeSortColumn = (column) => {
                 if (currentSort.column === column) {
                     currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
@@ -390,19 +487,12 @@
                     currentSort.column = column;
                     currentSort.direction = column === 'displayYield' ? 'desc' : 'asc';
                 }
-
-                document.querySelectorAll(`[data-sort]`).forEach(control => {
-                    control.classList.remove('active', 'sort-asc', 'sort-desc');
-                    if (control.dataset.sort === currentSort.column) {
-                        control.classList.add('active', `sort-${currentSort.direction}`);
-                    }
-                });
-
+                updateSortVisuals();
                 sortAndRender();
             };
 
             const initializeMobileSortControls = () => {
-                sortableHeaders.forEach(header => {
+                document.querySelectorAll('th[data-sort]').forEach(header => {
                     const column = header.dataset.sort;
                     const button = document.createElement('button');
                     button.className = 'mobile-sort-btn flex items-center';
@@ -443,7 +533,7 @@
 
             const debouncedFilterUpdate = debounce(() => {
                 window.requestAnimationFrame(updateAndRecalculate);
-            }, 500);
+            }, 300);
 
             filterInput.addEventListener('input', debouncedFilterUpdate);
 
@@ -457,9 +547,26 @@
             });
             exportCsvBtn.addEventListener('click', exportToCsv);
 
+            clearFilterBtn.addEventListener('click', () => {
+                filterInput.value = '';
+                updateAndRecalculate();
+            });
+
             // --- Initial Application Load ---
             try {
+                // Initialize the Intersection Observer for animations
+                animationObserver = new IntersectionObserver((entries, observer) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            entry.target.classList.add('visible');
+                            observer.unobserve(entry.target);
+                        }
+                    });
+                }, { threshold: 0.1 }); // Animate when 10% of the item is visible
+
                 initializeMobileSortControls();
+                // Use this line to test the skeleton loader:
+                // await new Promise(resolve => setTimeout(resolve, 2000));
                 const response = await fetch('money_market_funds.json');
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
@@ -474,21 +581,15 @@
                 taxRateValue.textContent = `${parseFloat(taxRateSlider.value).toFixed(1)}%`;
 
                 createElements();
+                updateSortVisuals();
+                window.requestAnimationFrame(updateAndRecalculate);
 
-                document.querySelectorAll(`[data-sort]`).forEach(control => {
-                    if (control.dataset.sort === currentSort.column) {
-                        control.classList.add('active', `sort-${currentSort.direction}`);
-                    }
-                });
-
-                updateAndRecalculate();
-
-                loading.classList.add("hidden");
+                loadingSkeleton.classList.add("hidden");
                 fundsTableContainer.classList.remove("hidden");
                 dataInfoContainer.classList.remove("hidden");
 
             } catch (err) {
-                loading.classList.add("hidden");
+                loadingSkeleton.classList.add("hidden");
                 error.classList.remove("hidden");
                 const errorElement = document.querySelector("#error p");
                 errorElement.textContent = `Failed to load data: ${err.message}. Make sure 'money_market_funds.json' is available.`;
