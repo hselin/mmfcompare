@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-07-09T08:02:59.528001",
+    "lastUpdated": "2025-08-05T08:02:39.454691",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -301,17 +301,17 @@
             "symbol": "DAPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.99%",
+            "yield": "4.04%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DARXX": {
             "symbol": "DARXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "4.01%",
+            "yield": "4.03%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DBFXX": {
             "symbol": "DBFXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.69%",
+            "yield": "3.74%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -381,17 +381,17 @@
             "symbol": "DIPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.09%",
+            "yield": "4.14%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DIRXX": {
             "symbol": "DIRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.11%",
+            "yield": "4.13%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DNSXX": {
             "symbol": "DNSXX",
@@ -413,9 +413,9 @@
             "symbol": "DPRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.71%",
+            "yield": "3.73%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DSHXX": {
             "symbol": "DSHXX",
@@ -445,17 +445,17 @@
             "symbol": "DTHXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS E",
             "category": "Government",
-            "yield": "3.31%",
+            "yield": "3.33%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTJXX": {
             "symbol": "DTJXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.84%",
+            "yield": "3.87%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTKXX": {
             "symbol": "DTKXX",
@@ -469,9 +469,9 @@
             "symbol": "DTLXX",
             "name": "Dreyfus Treasury & Agency Liquidity Money Market Fund",
             "category": "Government",
-            "yield": "4.30%",
+            "yield": "4.33%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTNXX": {
             "symbol": "DTNXX",
@@ -509,17 +509,17 @@
             "symbol": "DVPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.84%",
+            "yield": "3.89%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DVRXX": {
             "symbol": "DVRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.86%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "EJUXX": {
             "symbol": "EJUXX",
@@ -589,9 +589,9 @@
             "symbol": "FLPXX",
             "name": "Meeder Government Money Market Fund - Class E",
             "category": "Government",
-            "yield": "4.15%",
+            "yield": "4.17%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "FMFXX": {
             "symbol": "FMFXX",
@@ -1173,33 +1173,33 @@
             "symbol": "MMFXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
             "category": "Government",
-            "yield": "3.40%",
+            "yield": "3.58%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "MMGXX": {
             "symbol": "MMGXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.65%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "MMTXX": {
             "symbol": "MMTXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.37%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "MMYXX": {
             "symbol": "MMYXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Withholding Shares",
             "category": "Government",
-            "yield": "3.75%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "NOSXX": {
             "symbol": "NOSXX",
