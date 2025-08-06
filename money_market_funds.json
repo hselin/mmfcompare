@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-08-05T08:02:39.454691",
+    "lastUpdated": "2025-08-06T08:02:40.608696",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -261,17 +261,17 @@
             "symbol": "CEAXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS A",
             "category": "Government",
-            "yield": "4.12%",
+            "yield": "4.16%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "CEIXX": {
             "symbol": "CEIXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS I",
             "category": "Government",
-            "yield": "4.17%",
+            "yield": "4.21%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "CIIXX": {
             "symbol": "CIIXX",
@@ -375,7 +375,7 @@
             "category": "Government",
             "yield": "4.25%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DIPXX": {
             "symbol": "DIPXX",
@@ -399,7 +399,7 @@
             "category": "Government",
             "yield": "4.30%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DPGXX": {
             "symbol": "DPGXX",
@@ -421,17 +421,17 @@
             "symbol": "DSHXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS B",
             "category": "Government",
-            "yield": "4.24%",
+            "yield": "4.23%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DSVXX": {
             "symbol": "DSVXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS A",
             "category": "Government",
-            "yield": "4.29%",
+            "yield": "4.28%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTAXX": {
             "symbol": "DTAXX",
@@ -439,7 +439,7 @@
             "category": "Government",
             "yield": "4.08%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTHXX": {
             "symbol": "DTHXX",
@@ -463,7 +463,7 @@
             "category": "Government",
             "yield": "3.94%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTLXX": {
             "symbol": "DTLXX",
@@ -479,7 +479,7 @@
             "category": "Government",
             "yield": "3.39%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTPXX": {
             "symbol": "DTPXX",
@@ -487,7 +487,7 @@
             "category": "Government",
             "yield": "3.79%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTRXX": {
             "symbol": "DTRXX",
@@ -495,7 +495,7 @@
             "category": "Government",
             "yield": "4.19%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DTVXX": {
             "symbol": "DTVXX",
@@ -503,7 +503,7 @@
             "category": "Government",
             "yield": "3.94%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "DVPXX": {
             "symbol": "DVPXX",
@@ -863,15 +863,15 @@
             "category": "Prime",
             "yield": "3.50%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "GMGXX": {
             "symbol": "GMGXX",
             "name": "Dreyfus Money Market Fund -CLASS G",
             "category": "Prime",
-            "yield": "4.24%",
+            "yield": "4.30%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "GMIXX": {
             "symbol": "GMIXX",
@@ -885,9 +885,9 @@
             "symbol": "GMMXX",
             "name": "Dreyfus Money Market Fund -CLASS A",
             "category": "Prime",
-            "yield": "3.96%",
+            "yield": "4.05%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "GMYXX": {
             "symbol": "GMYXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "4.08%",
+            "yield": "4.12%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "PCSXX": {
             "symbol": "PCSXX",
@@ -1309,9 +1309,9 @@
             "symbol": "RPGXX",
             "name": "Davis Government Money Market Fund - Class A",
             "category": "Government",
-            "yield": "3.85%",
+            "yield": "3.78%",
             "isTaxFree": false,
-            "yieldDate": "2025-06-30"
+            "yieldDate": "2025-07-31"
         },
         "RRAXX": {
             "symbol": "RRAXX",
