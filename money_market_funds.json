@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-08-08T08:03:00.854096",
+    "lastUpdated": "2025-09-04T08:03:01.904221",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -301,17 +301,17 @@
             "symbol": "DAPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "4.04%",
+            "yield": "4.02%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DARXX": {
             "symbol": "DARXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "4.03%",
+            "yield": "4.02%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DBFXX": {
             "symbol": "DBFXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.74%",
+            "yield": "3.71%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -381,17 +381,17 @@
             "symbol": "DIPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.14%",
+            "yield": "4.11%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DIRXX": {
             "symbol": "DIRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.13%",
+            "yield": "4.12%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DNSXX": {
             "symbol": "DNSXX",
@@ -413,9 +413,9 @@
             "symbol": "DPRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.73%",
+            "yield": "3.72%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DSHXX": {
             "symbol": "DSHXX",
@@ -445,17 +445,17 @@
             "symbol": "DTHXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS E",
             "category": "Government",
-            "yield": "3.33%",
+            "yield": "3.32%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DTJXX": {
             "symbol": "DTJXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.87%",
+            "yield": "3.85%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DTKXX": {
             "symbol": "DTKXX",
@@ -509,17 +509,17 @@
             "symbol": "DVPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.89%",
+            "yield": "3.87%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "DVRXX": {
             "symbol": "DVRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.88%",
+            "yield": "3.87%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "EJUXX": {
             "symbol": "EJUXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "4.12%",
+            "yield": "4.11%",
             "isTaxFree": false,
-            "yieldDate": "2025-07-31"
+            "yieldDate": "2025-08-29"
         },
         "PCSXX": {
             "symbol": "PCSXX",
