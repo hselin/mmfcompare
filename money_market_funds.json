@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-09-09T08:03:31.368498",
+    "lastUpdated": "2025-10-03T08:03:06.271608",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -1357,17 +1357,17 @@
             "symbol": "SGAXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class A",
             "category": "Government",
-            "yield": "2.52%",
+            "yield": "2.27%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "SGMXX": {
             "symbol": "SGMXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class I",
             "category": "Government",
-            "yield": "2.91%",
+            "yield": "2.67%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "SGPXX": {
             "symbol": "SGPXX",
@@ -1461,9 +1461,9 @@
             "symbol": "SZCXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class C",
             "category": "Government",
-            "yield": "1.91%",
+            "yield": "1.67%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "TAMXX": {
             "symbol": "TAMXX",
