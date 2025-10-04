@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-10-03T08:03:06.271608",
+    "lastUpdated": "2025-10-04T08:02:59.426016",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -261,17 +261,17 @@
             "symbol": "CEAXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS A",
             "category": "Government",
-            "yield": "4.15%",
+            "yield": "4.01%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "CEIXX": {
             "symbol": "CEIXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS I",
             "category": "Government",
-            "yield": "4.20%",
+            "yield": "4.06%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "CIIXX": {
             "symbol": "CIIXX",
@@ -301,17 +301,17 @@
             "symbol": "DAPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.86%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DARXX": {
             "symbol": "DARXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DBFXX": {
             "symbol": "DBFXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.71%",
+            "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -373,33 +373,33 @@
             "symbol": "DHLXX",
             "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS B",
             "category": "Government",
-            "yield": "4.21%",
+            "yield": "4.05%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DIPXX": {
             "symbol": "DIPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.11%",
+            "yield": "3.96%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DIRXX": {
             "symbol": "DIRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "4.12%",
+            "yield": "3.98%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DNSXX": {
             "symbol": "DNSXX",
             "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS A",
             "category": "Government",
-            "yield": "4.26%",
+            "yield": "4.10%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DPGXX": {
             "symbol": "DPGXX",
@@ -413,25 +413,25 @@
             "symbol": "DPRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.72%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DSHXX": {
             "symbol": "DSHXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS B",
             "category": "Government",
-            "yield": "4.21%",
+            "yield": "4.04%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DSVXX": {
             "symbol": "DSVXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS A",
             "category": "Government",
-            "yield": "4.26%",
+            "yield": "4.09%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DTAXX": {
             "symbol": "DTAXX",
@@ -445,17 +445,17 @@
             "symbol": "DTHXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS E",
             "category": "Government",
-            "yield": "3.32%",
+            "yield": "3.19%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DTJXX": {
             "symbol": "DTJXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.85%",
+            "yield": "3.72%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DTKXX": {
             "symbol": "DTKXX",
@@ -469,9 +469,9 @@
             "symbol": "DTLXX",
             "name": "Dreyfus Treasury & Agency Liquidity Money Market Fund",
             "category": "Government",
-            "yield": "4.32%",
+            "yield": "4.11%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DTNXX": {
             "symbol": "DTNXX",
@@ -509,17 +509,17 @@
             "symbol": "DVPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.87%",
+            "yield": "3.71%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "DVRXX": {
             "symbol": "DVRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.87%",
+            "yield": "3.73%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "EJUXX": {
             "symbol": "EJUXX",
@@ -589,9 +589,9 @@
             "symbol": "FLPXX",
             "name": "Meeder Government Money Market Fund - Class E",
             "category": "Government",
-            "yield": "4.17%",
+            "yield": "3.99%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "FMFXX": {
             "symbol": "FMFXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "4.19%",
+            "yield": "4.09%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "4.19%",
+            "yield": "4.09%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "4.19%",
+            "yield": "4.09%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -861,17 +861,17 @@
             "symbol": "GMBXX",
             "name": "Dreyfus Money Market Fund -CLASS B",
             "category": "Prime",
-            "yield": "3.50%",
+            "yield": "3.34%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GMGXX": {
             "symbol": "GMGXX",
             "name": "Dreyfus Money Market Fund -CLASS G",
             "category": "Prime",
-            "yield": "4.30%",
+            "yield": "4.14%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GMIXX": {
             "symbol": "GMIXX",
@@ -885,9 +885,9 @@
             "symbol": "GMMXX",
             "name": "Dreyfus Money Market Fund -CLASS A",
             "category": "Prime",
-            "yield": "4.04%",
+            "yield": "3.90%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "GMYXX": {
             "symbol": "GMYXX",
@@ -1045,25 +1045,25 @@
             "symbol": "IPLXX",
             "name": "Voya Government Liquid Assets Portfolio - 5",
             "category": "Government",
-            "yield": "4.11%",
+            "yield": "3.94%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "ISPXX": {
             "symbol": "ISPXX",
             "name": "Voya Government Liquid Assets Portfolio - 2",
             "category": "Government",
-            "yield": "3.86%",
+            "yield": "3.69%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "ITLXX": {
             "symbol": "ITLXX",
             "name": "Voya Government Liquid Assets Portfolio - 1",
             "category": "Government",
-            "yield": "3.71%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "ITVXX": {
             "symbol": "ITVXX",
@@ -1085,9 +1085,9 @@
             "symbol": "IVMXX",
             "name": "Voya Government Money Market Portfolio - 5",
             "category": "Government",
-            "yield": "3.99%",
+            "yield": "3.82%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "JAAXX": {
             "symbol": "JAAXX",
@@ -1757,25 +1757,25 @@
             "symbol": "VYAXX",
             "name": "Voya Government Money Market Fund - 1",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "VYBXX": {
             "symbol": "VYBXX",
             "name": "Voya Government Money Market Fund - 4",
             "category": "Government",
-            "yield": "3.02%",
+            "yield": "2.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "VYCXX": {
             "symbol": "VYCXX",
             "name": "Voya Government Money Market Fund - 5",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "VYFXX": {
             "symbol": "VYFXX",
@@ -1789,17 +1789,17 @@
             "symbol": "VYGXX",
             "name": "Voya Government Money Market Fund - 13",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "VYHXX": {
             "symbol": "VYHXX",
             "name": "Voya Government Money Market Fund - 11",
             "category": "Government",
-            "yield": "4.02%",
+            "yield": "3.88%",
             "isTaxFree": false,
-            "yieldDate": "2025-08-29"
+            "yieldDate": "2025-09-30"
         },
         "WAAXX": {
             "symbol": "WAAXX",
