@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-12-06T08:03:06.596159",
+    "lastUpdated": "2026-01-06T08:03:02.042524",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.88%",
+            "yield": "3.76%",
             "isTaxFree": false,
-            "yieldDate": "2025-11-28"
+            "yieldDate": "2025-12-31"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.88%",
+            "yield": "3.76%",
             "isTaxFree": false,
-            "yieldDate": "2025-11-28"
+            "yieldDate": "2025-12-31"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.88%",
+            "yield": "3.76%",
             "isTaxFree": false,
-            "yieldDate": "2025-11-28"
+            "yieldDate": "2025-12-31"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "3.79%",
+            "yield": "3.62%",
             "isTaxFree": false,
-            "yieldDate": "2025-11-28"
+            "yieldDate": "2025-12-31"
         },
         "PCSXX": {
             "symbol": "PCSXX",
