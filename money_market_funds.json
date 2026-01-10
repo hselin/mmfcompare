@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-01-09T08:03:53.283756",
+    "lastUpdated": "2026-01-10T08:03:33.401231",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -1709,9 +1709,9 @@
             "symbol": "UTSXX",
             "name": "The United States TreasuryTrust - Investor Shares",
             "category": "Government",
-            "yield": "3.03%",
+            "yield": "2.89%",
             "isTaxFree": false,
-            "yieldDate": "2025-11-28"
+            "yieldDate": "2025-12-31"
         },
         "VMFXX": {
             "symbol": "VMFXX",
