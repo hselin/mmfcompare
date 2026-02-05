@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-01-10T08:03:33.401231",
+    "lastUpdated": "2026-02-05T08:09:25.595452",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -301,9 +301,9 @@
             "symbol": "DAPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.44%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "DARXX": {
             "symbol": "DARXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.20%",
+            "yield": "3.14%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -381,9 +381,9 @@
             "symbol": "DIPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "DIRXX": {
             "symbol": "DIRXX",
@@ -469,9 +469,9 @@
             "symbol": "DTLXX",
             "name": "Dreyfus Treasury & Agency Liquidity Money Market Fund",
             "category": "Government",
-            "yield": "3.67%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "DTNXX": {
             "symbol": "DTNXX",
@@ -509,9 +509,9 @@
             "symbol": "DVPXX",
             "name": "Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.35%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "DVRXX": {
             "symbol": "DVRXX",
@@ -1229,17 +1229,17 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "3.62%",
+            "yield": "3.48%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "PCSXX": {
             "symbol": "PCSXX",
             "name": "Money Market Fund - Class A shares",
             "category": "Prime",
-            "yield": "3.45%",
+            "yield": "3.34%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "PGVXX": {
             "symbol": "PGVXX",
@@ -1285,9 +1285,9 @@
             "symbol": "PMJXX",
             "name": "Money Market Fund - Class J shares",
             "category": "Prime",
-            "yield": "3.48%",
+            "yield": "3.37%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "PRVXX": {
             "symbol": "PRVXX",
@@ -1357,17 +1357,17 @@
             "symbol": "SGAXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class A",
             "category": "Government",
-            "yield": "1.84%",
+            "yield": "1.74%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "SGMXX": {
             "symbol": "SGMXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class I",
             "category": "Government",
-            "yield": "2.24%",
+            "yield": "2.14%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "SGPXX": {
             "symbol": "SGPXX",
@@ -1461,9 +1461,9 @@
             "symbol": "SZCXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class C",
             "category": "Government",
-            "yield": "1.24%",
+            "yield": "1.14%",
             "isTaxFree": false,
-            "yieldDate": "2025-12-31"
+            "yieldDate": "2026-01-30"
         },
         "TAMXX": {
             "symbol": "TAMXX",
