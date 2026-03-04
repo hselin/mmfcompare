@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-07T08:04:36.829756",
+    "lastUpdated": "2026-03-04T08:06:11.068641",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -1175,7 +1175,7 @@
             "category": "Government",
             "yield": "3.06%",
             "isTaxFree": false,
-            "yieldDate": "2026-01-30"
+            "yieldDate": "2026-02-27"
         },
         "MMGXX": {
             "symbol": "MMGXX",
@@ -1183,7 +1183,7 @@
             "category": "Government",
             "yield": "3.15%",
             "isTaxFree": false,
-            "yieldDate": "2026-01-30"
+            "yieldDate": "2026-02-27"
         },
         "MMTXX": {
             "symbol": "MMTXX",
@@ -1191,7 +1191,7 @@
             "category": "Government",
             "yield": "3.07%",
             "isTaxFree": false,
-            "yieldDate": "2026-01-30"
+            "yieldDate": "2026-02-27"
         },
         "MMYXX": {
             "symbol": "MMYXX",
@@ -1199,7 +1199,7 @@
             "category": "Government",
             "yield": "3.07%",
             "isTaxFree": false,
-            "yieldDate": "2026-01-30"
+            "yieldDate": "2026-02-27"
         },
         "NOSXX": {
             "symbol": "NOSXX",
