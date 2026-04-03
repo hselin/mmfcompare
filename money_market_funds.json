@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-07T08:03:09.742781",
+    "lastUpdated": "2026-04-03T08:14:35.913855",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -831,7 +831,7 @@
             "category": "Government",
             "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "GBAXX": {
             "symbol": "GBAXX",
@@ -839,7 +839,7 @@
             "category": "Government",
             "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "GBCXX": {
             "symbol": "GBCXX",
@@ -847,7 +847,7 @@
             "category": "Government",
             "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "GFAXX": {
             "symbol": "GFAXX",
