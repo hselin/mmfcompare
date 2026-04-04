@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-04-03T08:14:35.913855",
+    "lastUpdated": "2026-04-04T08:09:25.959362",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -1173,33 +1173,33 @@
             "symbol": "MMFXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
             "category": "Government",
-            "yield": "3.06%",
+            "yield": "3.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "MMGXX": {
             "symbol": "MMGXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.15%",
+            "yield": "3.21%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "MMTXX": {
             "symbol": "MMTXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.07%",
+            "yield": "3.13%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "MMYXX": {
             "symbol": "MMYXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Withholding Shares",
             "category": "Government",
-            "yield": "3.07%",
+            "yield": "3.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "NOSXX": {
             "symbol": "NOSXX",
@@ -1301,9 +1301,9 @@
             "symbol": "RGMXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - A",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.48%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "RPGXX": {
             "symbol": "RPGXX",
@@ -1565,9 +1565,9 @@
             "symbol": "TIMXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 2",
             "category": "Government",
-            "yield": "3.46%",
+            "yield": "3.44%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "TIRXX": {
             "symbol": "TIRXX",
@@ -1661,17 +1661,17 @@
             "symbol": "TUGXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 1",
             "category": "Government",
-            "yield": "3.59%",
+            "yield": "3.58%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "TUIXX": {
             "symbol": "TUIXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Investor",
             "category": "Government",
-            "yield": "2.72%",
+            "yield": "2.71%",
             "isTaxFree": false,
-            "yieldDate": "2026-02-27"
+            "yieldDate": "2026-03-31"
         },
         "UATXX": {
             "symbol": "UATXX",
