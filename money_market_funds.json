@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-04-08T08:22:17.053837",
+    "lastUpdated": "2026-05-05T08:40:51.084989",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -261,17 +261,17 @@
             "symbol": "CEAXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS A",
             "category": "Government",
-            "yield": "3.56%",
+            "yield": "3.55%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "CEIXX": {
             "symbol": "CEIXX",
             "name": "Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS I",
             "category": "Government",
-            "yield": "3.61%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "CIIXX": {
             "symbol": "CIIXX",
@@ -303,15 +303,15 @@
             "category": "Government",
             "yield": "3.40%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DARXX": {
             "symbol": "DARXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.43%",
+            "yield": "3.42%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DBFXX": {
             "symbol": "DBFXX",
@@ -343,7 +343,7 @@
             "category": "Government",
             "yield": "3.10%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -373,9 +373,9 @@
             "symbol": "DHLXX",
             "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS B",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.57%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DIPXX": {
             "symbol": "DIPXX",
@@ -383,23 +383,23 @@
             "category": "Government",
             "yield": "3.50%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DIRXX": {
             "symbol": "DIRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.52%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DNSXX": {
             "symbol": "DNSXX",
             "name": "Dreyfus Institutional Preferred Treasury Obligations -CLASS A",
             "category": "Government",
-            "yield": "3.63%",
+            "yield": "3.62%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DPGXX": {
             "symbol": "DPGXX",
@@ -413,25 +413,25 @@
             "symbol": "DPRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DSHXX": {
             "symbol": "DSHXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS B",
             "category": "Government",
-            "yield": "3.55%",
+            "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DSVXX": {
             "symbol": "DSVXX",
             "name": "Dreyfus Institutional Preferred Government Money Market -CLASS A",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.61%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTAXX": {
             "symbol": "DTAXX",
@@ -445,17 +445,17 @@
             "symbol": "DTHXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS E",
             "category": "Government",
-            "yield": "2.73%",
+            "yield": "2.72%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTJXX": {
             "symbol": "DTJXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.27%",
+            "yield": "3.26%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTKXX": {
             "symbol": "DTKXX",
@@ -511,15 +511,15 @@
             "category": "Government",
             "yield": "3.25%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DVRXX": {
             "symbol": "DVRXX",
             "name": "Dreyfus Treasury Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.27%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "EJUXX": {
             "symbol": "EJUXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1173,17 +1173,17 @@
             "symbol": "MMFXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
             "category": "Government",
-            "yield": "3.12%",
+            "yield": "3.11%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "MMGXX": {
             "symbol": "MMGXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.21%",
+            "yield": "3.18%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "MMTXX": {
             "symbol": "MMTXX",
@@ -1191,7 +1191,7 @@
             "category": "Government",
             "yield": "3.13%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "MMYXX": {
             "symbol": "MMYXX",
@@ -1199,7 +1199,7 @@
             "category": "Government",
             "yield": "3.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "NOSXX": {
             "symbol": "NOSXX",
