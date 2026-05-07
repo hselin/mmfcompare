@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-05-05T08:40:51.084989",
+    "lastUpdated": "2026-05-07T08:51:43.804956",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -7,7 +7,7 @@
             "category": "Government",
             "yield": "3.32%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "AAOXX": {
             "symbol": "AAOXX",
@@ -15,15 +15,15 @@
             "category": "Government",
             "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "ACAXX": {
             "symbol": "ACAXX",
             "name": "Prime Money Market Fund - Class A",
             "category": "Prime",
-            "yield": "3.03%",
+            "yield": "3.10%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "ACDXX": {
             "symbol": "ACDXX",
@@ -61,17 +61,17 @@
             "symbol": "AGHXX",
             "name": "U.S. Government Money Market Fund - Class C",
             "category": "Government",
-            "yield": "2.53%",
+            "yield": "2.55%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "AGQXX": {
             "symbol": "AGQXX",
             "name": "U.S. Government Money Market Fund - Class A",
             "category": "Government",
-            "yield": "3.03%",
+            "yield": "3.04%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "AJTXX": {
             "symbol": "AJTXX",
@@ -85,9 +85,9 @@
             "symbol": "ARCXX",
             "name": "Prime Money Market Fund - Class C",
             "category": "Prime",
-            "yield": "2.53%",
+            "yield": "2.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BBSXX": {
             "symbol": "BBSXX",
@@ -101,121 +101,121 @@
             "symbol": "BCHXX",
             "name": "T-FUND - Capital",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.49%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BCTXX": {
             "symbol": "BCTXX",
             "name": "California Tax-Free Money Market Fund - Investor Class",
             "category": "Single State",
-            "yield": "1.72%",
+            "yield": "2.58%",
             "isTaxFree": true,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BFBXX": {
             "symbol": "BFBXX",
             "name": "FEDFUND - Select",
             "category": "Government",
-            "yield": "2.72%",
+            "yield": "2.71%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BFCXX": {
             "symbol": "BFCXX",
             "name": "FEDFUND - Capital",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.49%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BFRXX": {
             "symbol": "BFRXX",
             "name": "FEDFUND - Cash Reserve",
             "category": "Government",
-            "yield": "3.15%",
+            "yield": "3.14%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BITXX": {
             "symbol": "BITXX",
             "name": "TREASURY TRUST FUND - Administration",
             "category": "Government",
-            "yield": "3.45%",
+            "yield": "3.43%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BLFXX": {
             "symbol": "BLFXX",
             "name": "FEDFUND - Administration",
             "category": "Government",
-            "yield": "3.45%",
+            "yield": "3.44%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BNTXX": {
             "symbol": "BNTXX",
             "name": "Tax-Free Money Market Fund - Investor Class",
             "category": "Other Tax Exempt",
-            "yield": "2.03%",
+            "yield": "3.06%",
             "isTaxFree": true,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BPRXX": {
             "symbol": "BPRXX",
             "name": "Prime Money Market Fund - Investor Class",
             "category": "Prime",
-            "yield": "3.28%",
+            "yield": "3.35%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BPTXX": {
             "symbol": "BPTXX",
             "name": "T-FUND - Cash Management",
             "category": "Government",
-            "yield": "3.05%",
+            "yield": "3.04%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BRPXX": {
             "symbol": "BRPXX",
             "name": "FEDFUND - Private Client",
             "category": "Government",
-            "yield": "3.04%",
+            "yield": "3.03%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BTAXX": {
             "symbol": "BTAXX",
             "name": "T-FUND - Administration",
             "category": "Government",
-            "yield": "3.45%",
+            "yield": "3.44%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BTCXX": {
             "symbol": "BTCXX",
             "name": "TREASURY TRUST FUND - Cash Management",
             "category": "Government",
-            "yield": "3.04%",
+            "yield": "3.03%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BUCXX": {
             "symbol": "BUCXX",
             "name": "TREASURY TRUST FUND - Capital",
             "category": "Government",
-            "yield": "3.49%",
+            "yield": "3.48%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "BUPXX": {
             "symbol": "BUPXX",
             "name": "FEDFUND - Premier",
             "category": "Government",
-            "yield": "3.55%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "CACXX": {
             "symbol": "CACXX",
@@ -285,9 +285,9 @@
             "symbol": "CPFXX",
             "name": "Capital Preservation Fund - Investor Class",
             "category": "Government",
-            "yield": "3.26%",
+            "yield": "3.24%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DAGXX": {
             "symbol": "DAGXX",
@@ -295,7 +295,7 @@
             "category": "Government",
             "yield": "3.43%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DAPXX": {
             "symbol": "DAPXX",
@@ -319,15 +319,15 @@
             "category": "Government",
             "yield": "3.23%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DBLXX": {
             "symbol": "DBLXX",
             "name": "Dreyfus Government Cash Management -CLASS O",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DGCXX": {
             "symbol": "DGCXX",
@@ -335,7 +335,7 @@
             "category": "Government",
             "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DGPXX": {
             "symbol": "DGPXX",
@@ -349,25 +349,25 @@
             "symbol": "DGQXX",
             "name": "Dreyfus Government Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DGUXX": {
             "symbol": "DGUXX",
             "name": "Dreyfus Government Cash Management -CLASS E",
             "category": "Government",
-            "yield": "2.73%",
+            "yield": "2.74%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DGVXX": {
             "symbol": "DGVXX",
             "name": "Dreyfus Government Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DHLXX": {
             "symbol": "DHLXX",
@@ -405,9 +405,9 @@
             "symbol": "DPGXX",
             "name": "Dreyfus Government Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.14%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DPRXX": {
             "symbol": "DPRXX",
@@ -437,9 +437,9 @@
             "symbol": "DTAXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.44%",
+            "yield": "3.43%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTHXX": {
             "symbol": "DTHXX",
@@ -461,49 +461,49 @@
             "symbol": "DTKXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.29%",
+            "yield": "3.28%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTLXX": {
             "symbol": "DTLXX",
             "name": "Dreyfus Treasury & Agency Liquidity Money Market Fund",
             "category": "Government",
-            "yield": "3.59%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTNXX": {
             "symbol": "DTNXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS E",
             "category": "Government",
-            "yield": "2.74%",
+            "yield": "2.73%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTPXX": {
             "symbol": "DTPXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.14%",
+            "yield": "3.13%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTRXX": {
             "symbol": "DTRXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.54%",
+            "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DTVXX": {
             "symbol": "DTVXX",
             "name": "Dreyfus Treasury Obligations Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.29%",
+            "yield": "3.28%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "DVPXX": {
             "symbol": "DVPXX",
@@ -591,15 +591,15 @@
             "category": "Government",
             "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FMFXX": {
             "symbol": "FMFXX",
             "name": "Franklin U.S. Government Money Fund - Class A",
             "category": "Government",
-            "yield": "3.16%",
+            "yield": "3.19%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FNKXX": {
             "symbol": "FNKXX",
@@ -613,9 +613,9 @@
             "symbol": "FOBXX",
             "name": "Franklin OnChain U.S. Government Money Fund",
             "category": "Government",
-            "yield": "3.52%",
+            "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FODXX": {
             "symbol": "FODXX",
@@ -709,17 +709,17 @@
             "symbol": "FRQXX",
             "name": "Franklin U.S. Government Money Fund - Class R",
             "category": "Government",
-            "yield": "2.66%",
+            "yield": "2.69%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FRRXX": {
             "symbol": "FRRXX",
             "name": "Franklin U.S. Government Money Fund - Class R6",
             "category": "Government",
-            "yield": "3.21%",
+            "yield": "3.22%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FRSXX": {
             "symbol": "FRSXX",
@@ -781,9 +781,9 @@
             "symbol": "FTQXX",
             "name": "Franklin U.S. Government Money Fund - Class C",
             "category": "Government",
-            "yield": "2.51%",
+            "yield": "2.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "FTYXX": {
             "symbol": "FTYXX",
@@ -855,7 +855,7 @@
             "category": "Government",
             "yield": "3.32%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GMBXX": {
             "symbol": "GMBXX",
@@ -863,7 +863,7 @@
             "category": "Prime",
             "yield": "2.84%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GMGXX": {
             "symbol": "GMGXX",
@@ -871,15 +871,15 @@
             "category": "Prime",
             "yield": "3.64%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GMIXX": {
             "symbol": "GMIXX",
             "name": "Nationwide Government Money Market Fund - Class R6",
             "category": "Government",
-            "yield": "3.30%",
+            "yield": "3.31%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GMMXX": {
             "symbol": "GMMXX",
@@ -887,7 +887,7 @@
             "category": "Prime",
             "yield": "3.39%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "GMYXX": {
             "symbol": "GMYXX",
@@ -965,9 +965,9 @@
             "symbol": "IATXX",
             "name": "Transamerica Government Money Market - Class A",
             "category": "Government",
-            "yield": "2.90%",
+            "yield": "2.92%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "ICGXX": {
             "symbol": "ICGXX",
@@ -997,9 +997,9 @@
             "symbol": "IMLXX",
             "name": "Transamerica Government Money Market - Class C",
             "category": "Government",
-            "yield": "2.20%",
+            "yield": "2.22%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "INBXX": {
             "symbol": "INBXX",
@@ -1141,17 +1141,17 @@
             "symbol": "MCSXX",
             "name": "MUNICASH - Institutional",
             "category": "Other Tax Exempt",
-            "yield": "2.23%",
+            "yield": "3.31%",
             "isTaxFree": true,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "MIFXX": {
             "symbol": "MIFXX",
             "name": "Nationwide Government Money Market Fund - Investor",
             "category": "Government",
-            "yield": "3.20%",
+            "yield": "3.21%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "MJPXX": {
             "symbol": "MJPXX",
@@ -1213,9 +1213,9 @@
             "symbol": "NWSXX",
             "name": "Nationwide Government Money Market Fund - Service Class",
             "category": "Government",
-            "yield": "3.00%",
+            "yield": "3.02%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "NWTXX": {
             "symbol": "NWTXX",
@@ -1231,31 +1231,31 @@
             "category": "Government",
             "yield": "3.37%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "PCSXX": {
             "symbol": "PCSXX",
             "name": "Money Market Fund - Class A shares",
             "category": "Prime",
-            "yield": "3.36%",
+            "yield": "3.35%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "PGVXX": {
             "symbol": "PGVXX",
             "name": "Government Money Market Fund - Institutional shares",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.49%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "PGWXX": {
             "symbol": "PGWXX",
             "name": "Government Money Market Fund - R-6 shares",
             "category": "Government",
-            "yield": "3.54%",
+            "yield": "3.55%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "PISXX": {
             "symbol": "PISXX",
@@ -1285,9 +1285,9 @@
             "symbol": "PMJXX",
             "name": "Money Market Fund - Class J shares",
             "category": "Prime",
-            "yield": "3.39%",
+            "yield": "3.38%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "PRVXX": {
             "symbol": "PRVXX",
@@ -1301,17 +1301,17 @@
             "symbol": "RGMXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - A",
             "category": "Government",
-            "yield": "3.48%",
+            "yield": "3.49%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "RPGXX": {
             "symbol": "RPGXX",
             "name": "Davis Government Money Market Fund - Class A",
             "category": "Government",
-            "yield": "3.18%",
+            "yield": "3.09%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "RRAXX": {
             "symbol": "RRAXX",
@@ -1333,9 +1333,9 @@
             "symbol": "SCPXX",
             "name": "SDIT TREASURY II FUND - CLASS F",
             "category": "Government",
-            "yield": "3.51%",
+            "yield": "3.49%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "SCTXX": {
             "symbol": "SCTXX",
@@ -1349,9 +1349,9 @@
             "symbol": "SEOXX",
             "name": "SDIT GOVERNMENT - Institutional",
             "category": "Government",
-            "yield": "3.47%",
+            "yield": "3.46%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "SGAXX": {
             "symbol": "SGAXX",
@@ -1359,15 +1359,15 @@
             "category": "Government",
             "yield": "1.70%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "SGMXX": {
             "symbol": "SGMXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class I",
             "category": "Government",
-            "yield": "2.09%",
+            "yield": "2.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "SGPXX": {
             "symbol": "SGPXX",
@@ -1397,9 +1397,9 @@
             "symbol": "SPKXX",
             "name": "Dreyfus Government Cash Management -CLASS S",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "SPRXX": {
             "symbol": "SPRXX",
@@ -1463,23 +1463,23 @@
             "category": "Government",
             "yield": "1.10%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TAMXX": {
             "symbol": "TAMXX",
             "name": "Transamerica Government Money Market - Class I",
             "category": "Government",
-            "yield": "3.25%",
+            "yield": "3.26%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TCGXX": {
             "symbol": "TCGXX",
             "name": "SDIT GOVERNMENT II - CLASS F",
             "category": "Government",
-            "yield": "3.47%",
+            "yield": "3.48%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TCIXX": {
             "symbol": "TCIXX",
@@ -1487,15 +1487,15 @@
             "category": "Government",
             "yield": "3.62%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TCRXX": {
             "symbol": "TCRXX",
             "name": "U.S. Government Money Market Fund - Investor Class",
             "category": "Government",
-            "yield": "3.27%",
+            "yield": "3.30%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TCSXX": {
             "symbol": "TCSXX",
@@ -1509,49 +1509,49 @@
             "symbol": "TDDXX",
             "name": "FEDFUND - Dollar",
             "category": "Government",
-            "yield": "3.30%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TFDXX": {
             "symbol": "TFDXX",
             "name": "FEDFUND - Institutional",
             "category": "Government",
-            "yield": "3.55%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TFEXX": {
             "symbol": "TFEXX",
             "name": "T-FUND - Dollar",
             "category": "Government",
-            "yield": "3.30%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TFGXX": {
             "symbol": "TFGXX",
             "name": "Transamerica Government Money Market - Class R4",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.14%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TGRXX": {
             "symbol": "TGRXX",
             "name": "Transamerica Government Money Market - Class R2",
             "category": "Government",
-            "yield": "2.93%",
+            "yield": "2.95%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TGTXX": {
             "symbol": "TGTXX",
             "name": "Transamerica Government Money Market - Class I3",
             "category": "Government",
-            "yield": "3.27%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TIEXX": {
             "symbol": "TIEXX",
@@ -1559,71 +1559,71 @@
             "category": "Government",
             "yield": "3.37%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TIMXX": {
             "symbol": "TIMXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 2",
             "category": "Government",
-            "yield": "3.44%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TIRXX": {
             "symbol": "TIRXX",
             "name": "Nuveen Money Market Fund - Class A",
             "category": "Government",
-            "yield": "3.29%",
+            "yield": "3.22%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TLMXX": {
             "symbol": "TLMXX",
             "name": "Nuveen Life Money Market Fund",
             "category": "Government",
-            "yield": "3.59%",
+            "yield": "3.58%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TMCXX": {
             "symbol": "TMCXX",
             "name": "TEMPCASH - Institutional",
             "category": "Prime",
-            "yield": "3.67%",
+            "yield": "3.68%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TMHXX": {
             "symbol": "TMHXX",
             "name": "Nuveen Money Market Fund - Class I",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.62%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TPPXX": {
             "symbol": "TPPXX",
             "name": "Nuveen Money Market Fund - Premier",
             "category": "Government",
-            "yield": "3.46%",
+            "yield": "3.47%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TSTXX": {
             "symbol": "TSTXX",
             "name": "T-FUND - Institutional",
             "category": "Government",
-            "yield": "3.55%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TTDXX": {
             "symbol": "TTDXX",
             "name": "TREASURY TRUST FUND - Dollar",
             "category": "Government",
-            "yield": "3.29%",
+            "yield": "3.28%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TTIXX": {
             "symbol": "TTIXX",
@@ -1653,33 +1653,33 @@
             "symbol": "TTTXX",
             "name": "TREASURY TRUST FUND - Institutional",
             "category": "Government",
-            "yield": "3.54%",
+            "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TUGXX": {
             "symbol": "TUGXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Institutional Class 1",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "TUIXX": {
             "symbol": "TUIXX",
             "name": "RBC BlueBay U.S. Government Money Market Fund - Investor",
             "category": "Government",
-            "yield": "2.71%",
+            "yield": "2.72%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "UATXX": {
             "symbol": "UATXX",
             "name": "Victory Treasury Money Market Trust",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "UPRXX": {
             "symbol": "UPRXX",
@@ -1693,17 +1693,17 @@
             "symbol": "USAXX",
             "name": "Victory Money Market Fund",
             "category": "Prime",
-            "yield": "3.40%",
+            "yield": "3.37%",
             "isTaxFree": false,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "USEXX": {
             "symbol": "USEXX",
             "name": "Victory Tax Exempt Money Market Fund",
             "category": "Other Tax Exempt",
-            "yield": "1.92%",
+            "yield": "2.98%",
             "isTaxFree": true,
-            "yieldDate": "2026-03-31"
+            "yieldDate": "2026-04-30"
         },
         "UTSXX": {
             "symbol": "UTSXX",
