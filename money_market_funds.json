@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-06-06T08:50:57.017208",
+    "lastUpdated": "2026-06-09T09:02:45.636612",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -27,35 +27,35 @@
         },
         "ACDXX": {
             "symbol": "ACDXX",
-            "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class D Shares",
+            "name": "Janus Henderson Government Money Market Fund - American Cancer Society Support - Class D Shares",
             "category": "Government",
-            "yield": "3.35%",
+            "yield": "3.32%",
             "isTaxFree": false,
-            "yieldDate": "2026-04-30"
+            "yieldDate": "2026-05-29"
         },
         "ACJXX": {
             "symbol": "ACJXX",
-            "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class I Shares",
+            "name": "Janus Henderson Government Money Market Fund - American Cancer Society Support - Class I Shares",
             "category": "Government",
-            "yield": "3.48%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-04-30"
+            "yieldDate": "2026-05-29"
         },
         "ACOXX": {
             "symbol": "ACOXX",
-            "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class N Shares",
+            "name": "Janus Henderson Government Money Market Fund - American Cancer Society Support - Class N Shares",
             "category": "Government",
-            "yield": "3.48%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-04-30"
+            "yieldDate": "2026-05-29"
         },
         "ACTXX": {
             "symbol": "ACTXX",
-            "name": "Janus Henderson Government Money Market - American Cancer Society Support - Class T Shares",
+            "name": "Janus Henderson Government Money Market Fund - American Cancer Society Support - Class T Shares",
             "category": "Government",
-            "yield": "3.22%",
+            "yield": "3.19%",
             "isTaxFree": false,
-            "yieldDate": "2026-04-30"
+            "yieldDate": "2026-05-29"
         },
         "AGHXX": {
             "symbol": "AGHXX",
