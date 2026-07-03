@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-06-09T09:02:45.636612",
+    "lastUpdated": "2026-07-03T10:26:01.130176",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -589,9 +589,9 @@
             "symbol": "FLPXX",
             "name": "Meeder Government Money Market Fund - Class E",
             "category": "Government",
-            "yield": "3.54%",
+            "yield": "3.57%",
             "isTaxFree": false,
-            "yieldDate": "2026-05-29"
+            "yieldDate": "2026-06-30"
         },
         "FMFXX": {
             "symbol": "FMFXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-05-29"
+            "yieldDate": "2026-06-30"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-05-29"
+            "yieldDate": "2026-06-30"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-05-29"
+            "yieldDate": "2026-06-30"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "3.35%",
+            "yield": "3.41%",
             "isTaxFree": false,
-            "yieldDate": "2026-05-29"
+            "yieldDate": "2026-06-30"
         },
         "PCSXX": {
             "symbol": "PCSXX",
