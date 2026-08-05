@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-07-09T10:44:58.319024",
+    "lastUpdated": "2026-08-05T10:23:10.477190",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -301,17 +301,17 @@
             "symbol": "DAPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.40%",
+            "yield": "3.43%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DARXX": {
             "symbol": "DARXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.42%",
+            "yield": "3.46%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DBFXX": {
             "symbol": "DBFXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.10%",
+            "yield": "3.13%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -381,17 +381,17 @@
             "symbol": "DIPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.50%",
+            "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DIRXX": {
             "symbol": "DIRXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DNSXX": {
             "symbol": "DNSXX",
@@ -413,9 +413,9 @@
             "symbol": "DPRXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.16%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DSHXX": {
             "symbol": "DSHXX",
@@ -445,17 +445,17 @@
             "symbol": "DTHXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS E",
             "category": "Government",
-            "yield": "2.73%",
+            "yield": "2.76%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTJXX": {
             "symbol": "DTJXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.26%",
+            "yield": "3.30%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTKXX": {
             "symbol": "DTKXX",
@@ -469,9 +469,9 @@
             "symbol": "DTLXX",
             "name": "BNY Dreyfus Treasury &amp; Agency Liquidity Money Market Fund",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTNXX": {
             "symbol": "DTNXX",
@@ -509,17 +509,17 @@
             "symbol": "DVPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.25%",
+            "yield": "3.28%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DVRXX": {
             "symbol": "DVRXX",
             "name": "BNY Dreyfus Treasury Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.31%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "EJUXX": {
             "symbol": "EJUXX",
@@ -589,9 +589,9 @@
             "symbol": "FLPXX",
             "name": "Meeder Government Money Market Fund - Class E",
             "category": "Government",
-            "yield": "3.57%",
+            "yield": "3.60%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "FMFXX": {
             "symbol": "FMFXX",
@@ -861,17 +861,17 @@
             "symbol": "GMBXX",
             "name": "BNY Dreyfus Money Market Fund -CLASS B",
             "category": "Prime",
-            "yield": "2.83%",
+            "yield": "2.86%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GMGXX": {
             "symbol": "GMGXX",
             "name": "BNY Dreyfus Money Market Fund -CLASS G",
             "category": "Prime",
-            "yield": "3.63%",
+            "yield": "3.66%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GMIXX": {
             "symbol": "GMIXX",
@@ -885,9 +885,9 @@
             "symbol": "GMMXX",
             "name": "BNY Dreyfus Money Market Fund -CLASS A",
             "category": "Prime",
-            "yield": "3.39%",
+            "yield": "3.41%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GMYXX": {
             "symbol": "GMYXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "3.41%",
+            "yield": "3.47%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "PCSXX": {
             "symbol": "PCSXX",
