@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-08-05T10:23:10.477190",
+    "lastUpdated": "2026-08-06T10:25:18.533646",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -261,17 +261,17 @@
             "symbol": "CEAXX",
             "name": "BNY Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS A",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "CEIXX": {
             "symbol": "CEIXX",
             "name": "BNY Dreyfus Institutional Preferred Treasury Securities Money Market Fund -CLASS I",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.64%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "CIIXX": {
             "symbol": "CIIXX",
@@ -373,9 +373,9 @@
             "symbol": "DHLXX",
             "name": "BNY Dreyfus Institutional Preferred Treasury Obligations -CLASS B",
             "category": "Government",
-            "yield": "3.56%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DIPXX": {
             "symbol": "DIPXX",
@@ -397,9 +397,9 @@
             "symbol": "DNSXX",
             "name": "BNY Dreyfus Institutional Preferred Treasury Obligations -CLASS A",
             "category": "Government",
-            "yield": "3.61%",
+            "yield": "3.64%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DPGXX": {
             "symbol": "DPGXX",
@@ -421,25 +421,25 @@
             "symbol": "DSHXX",
             "name": "BNY Dreyfus Institutional Preferred Government Money Market -CLASS B",
             "category": "Government",
-            "yield": "3.55%",
+            "yield": "3.58%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DSVXX": {
             "symbol": "DSVXX",
             "name": "BNY Dreyfus Institutional Preferred Government Money Market -CLASS A",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.63%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTAXX": {
             "symbol": "DTAXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.42%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTHXX": {
             "symbol": "DTHXX",
@@ -461,9 +461,9 @@
             "symbol": "DTKXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS W",
             "category": "Government",
-            "yield": "3.27%",
+            "yield": "3.31%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTLXX": {
             "symbol": "DTLXX",
@@ -477,33 +477,33 @@
             "symbol": "DTNXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS E",
             "category": "Government",
-            "yield": "2.73%",
+            "yield": "2.76%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTPXX": {
             "symbol": "DTPXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.16%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTRXX": {
             "symbol": "DTRXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.52%",
+            "yield": "3.56%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DTVXX": {
             "symbol": "DTVXX",
             "name": "BNY Dreyfus Treasury Obligations Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.31%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "DVPXX": {
             "symbol": "DVPXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.66%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.66%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.60%",
+            "yield": "3.66%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1173,33 +1173,33 @@
             "symbol": "MMFXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
             "category": "Government",
-            "yield": "3.07%",
+            "yield": "3.05%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "MMGXX": {
             "symbol": "MMGXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "MMTXX": {
             "symbol": "MMTXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.08%",
+            "yield": "3.10%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "MMYXX": {
             "symbol": "MMYXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Withholding Shares",
             "category": "Government",
-            "yield": "3.08%",
+            "yield": "3.10%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "NOSXX": {
             "symbol": "NOSXX",
@@ -1357,17 +1357,17 @@
             "symbol": "SGAXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class A",
             "category": "Government",
-            "yield": "1.56%",
+            "yield": "1.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "SGMXX": {
             "symbol": "SGMXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class I",
             "category": "Government",
-            "yield": "1.95%",
+            "yield": "1.93%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "SGPXX": {
             "symbol": "SGPXX",
@@ -1461,9 +1461,9 @@
             "symbol": "SZCXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class C",
             "category": "Government",
-            "yield": "0.96%",
+            "yield": "0.93%",
             "isTaxFree": false,
-            "yieldDate": "2026-06-30"
+            "yieldDate": "2026-07-31"
         },
         "TAMXX": {
             "symbol": "TAMXX",
