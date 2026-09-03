@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-08-08T08:26:47.776096",
+    "lastUpdated": "2026-09-03T12:19:58.916900",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -301,9 +301,9 @@
             "symbol": "DAPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS C",
             "category": "Government",
-            "yield": "3.43%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DARXX": {
             "symbol": "DARXX",
@@ -341,9 +341,9 @@
             "symbol": "DGPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS R",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.14%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DGQXX": {
             "symbol": "DGQXX",
@@ -375,15 +375,15 @@
             "category": "Government",
             "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DIPXX": {
             "symbol": "DIPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS A",
             "category": "Government",
-            "yield": "3.53%",
+            "yield": "3.54%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DIRXX": {
             "symbol": "DIRXX",
@@ -399,7 +399,7 @@
             "category": "Government",
             "yield": "3.64%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DPGXX": {
             "symbol": "DPGXX",
@@ -423,7 +423,7 @@
             "category": "Government",
             "yield": "3.58%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DSVXX": {
             "symbol": "DSVXX",
@@ -431,7 +431,7 @@
             "category": "Government",
             "yield": "3.63%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DTAXX": {
             "symbol": "DTAXX",
@@ -471,7 +471,7 @@
             "category": "Government",
             "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DTNXX": {
             "symbol": "DTNXX",
@@ -509,9 +509,9 @@
             "symbol": "DVPXX",
             "name": "BNY Dreyfus Government Securities Cash Management -CLASS B",
             "category": "Government",
-            "yield": "3.28%",
+            "yield": "3.30%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "DVRXX": {
             "symbol": "DVRXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.66%",
+            "yield": "3.69%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.66%",
+            "yield": "3.69%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.66%",
+            "yield": "3.68%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1229,9 +1229,9 @@
             "symbol": "PBHXX",
             "name": "Payden Cash Reserves Money Market Fund - TF",
             "category": "Government",
-            "yield": "3.47%",
+            "yield": "3.48%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "PCSXX": {
             "symbol": "PCSXX",
