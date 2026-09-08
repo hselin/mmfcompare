@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-09-05T11:27:45.427378",
+    "lastUpdated": "2026-09-08T12:21:46.503716",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -893,9 +893,9 @@
             "symbol": "GMYXX",
             "name": "MONEY MARKET FUND - Institutional Class",
             "category": "Government",
-            "yield": "3.58%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "GMZXX": {
             "symbol": "GMZXX",
@@ -903,7 +903,7 @@
             "category": "Government",
             "yield": "3.31%",
             "isTaxFree": false,
-            "yieldDate": "2026-07-31"
+            "yieldDate": "2026-08-31"
         },
         "GRAXX": {
             "symbol": "GRAXX",
