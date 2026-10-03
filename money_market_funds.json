@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-09-09T12:33:47.766074",
+    "lastUpdated": "2026-10-03T12:49:17.945626",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -589,9 +589,9 @@
             "symbol": "FLPXX",
             "name": "Meeder Government Money Market Fund - Class E",
             "category": "Government",
-            "yield": "3.61%",
+            "yield": "3.72%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "FMFXX": {
             "symbol": "FMFXX",
@@ -829,25 +829,25 @@
             "symbol": "GABXX",
             "name": "Gabelli U.S Treasury Money Market Fund - 1I",
             "category": "Government",
-            "yield": "3.69%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "GBAXX": {
             "symbol": "GBAXX",
             "name": "Gabelli U.S Treasury Money Market Fund - Z",
             "category": "Government",
-            "yield": "3.69%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "GBCXX": {
             "symbol": "GBCXX",
             "name": "Gabelli U.S Treasury Money Market Fund - C",
             "category": "Government",
-            "yield": "3.68%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "GFAXX": {
             "symbol": "GFAXX",
@@ -1357,17 +1357,17 @@
             "symbol": "SGAXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class A",
             "category": "Government",
-            "yield": "1.53%",
+            "yield": "1.72%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "SGMXX": {
             "symbol": "SGMXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class I",
             "category": "Government",
-            "yield": "1.93%",
+            "yield": "2.11%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "SGPXX": {
             "symbol": "SGPXX",
@@ -1461,9 +1461,9 @@
             "symbol": "SZCXX",
             "name": "Saratoga U.S. Government Money Market Portfolio Class C",
             "category": "Government",
-            "yield": "0.93%",
+            "yield": "1.12%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TAMXX": {
             "symbol": "TAMXX",
