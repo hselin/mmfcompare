@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-10-03T12:49:17.945626",
+    "lastUpdated": "2026-10-05T16:32:57.717459",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -1173,33 +1173,33 @@
             "symbol": "MMFXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Withholding Shares",
             "category": "Government",
-            "yield": "3.09%",
+            "yield": "3.29%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "MMGXX": {
             "symbol": "MMGXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class I Institutional Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.15%",
+            "yield": "3.36%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "MMTXX": {
             "symbol": "MMTXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Non-Withholding Shares",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.34%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "MMYXX": {
             "symbol": "MMYXX",
             "name": "Popular U.S. Government Money Market Fund, LLC - Class A Withholding Shares",
             "category": "Government",
-            "yield": "3.13%",
+            "yield": "3.34%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "NOSXX": {
             "symbol": "NOSXX",
