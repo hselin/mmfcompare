@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-10-05T16:32:57.717459",
+    "lastUpdated": "2026-10-06T14:34:32.259199",
     "funds": {
         "AABXX": {
             "symbol": "AABXX",
@@ -13,9 +13,9 @@
             "symbol": "AAOXX",
             "name": "American Beacon U.S. Government Money Market Select Fund - U.S. Government Money Market Select Fund",
             "category": "Government",
-            "yield": "3.57%",
+            "yield": "3.78%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "ACAXX": {
             "symbol": "ACAXX",
@@ -1093,25 +1093,25 @@
             "symbol": "JAAXX",
             "name": "Money Market Trust - Series II",
             "category": "Government",
-            "yield": "3.20%",
+            "yield": "3.39%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "JABXX": {
             "symbol": "JABXX",
             "name": "Money Market Trust - Series NAV",
             "category": "Government",
-            "yield": "3.45%",
+            "yield": "3.64%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "JHOXX": {
             "symbol": "JHOXX",
             "name": "Money Market Trust - Series I",
             "category": "Government",
-            "yield": "3.40%",
+            "yield": "3.59%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "JPCXX": {
             "symbol": "JPCXX",
@@ -1485,9 +1485,9 @@
             "symbol": "TCIXX",
             "name": "Nuveen Money Market Fund - Class R6",
             "category": "Government",
-            "yield": "3.61%",
+            "yield": "3.78%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TCRXX": {
             "symbol": "TCRXX",
@@ -1557,9 +1557,9 @@
             "symbol": "TIEXX",
             "name": "Nuveen Money Market Fund - Retirement",
             "category": "Government",
-            "yield": "3.36%",
+            "yield": "3.53%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TIMXX": {
             "symbol": "TIMXX",
@@ -1573,17 +1573,17 @@
             "symbol": "TIRXX",
             "name": "Nuveen Money Market Fund - Class A",
             "category": "Government",
-            "yield": "3.31%",
+            "yield": "3.45%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TLMXX": {
             "symbol": "TLMXX",
             "name": "Nuveen Life Money Market Fund",
             "category": "Government",
-            "yield": "3.59%",
+            "yield": "3.75%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TMCXX": {
             "symbol": "TMCXX",
@@ -1597,17 +1597,17 @@
             "symbol": "TMHXX",
             "name": "Nuveen Money Market Fund - Class I",
             "category": "Government",
-            "yield": "3.65%",
+            "yield": "3.77%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TPPXX": {
             "symbol": "TPPXX",
             "name": "Nuveen Money Market Fund - Premier",
             "category": "Government",
-            "yield": "3.46%",
+            "yield": "3.63%",
             "isTaxFree": false,
-            "yieldDate": "2026-08-31"
+            "yieldDate": "2026-09-30"
         },
         "TSTXX": {
             "symbol": "TSTXX",
